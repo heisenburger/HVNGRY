@@ -59,8 +59,8 @@ add_action( 'cleanretina_footer', 'cleanretina_footer_info', 25 );
  * function to show the footer info, copyright information
  */
 function cleanretina_footer_info() {         
-   $output = '<div class="copyright">'.__( 'Copyright &copy;', 'cleanretina' ).' '.cleanretina_the_year().' ' .cleanretina_site_link().' | ' . ' '.__( 'Theme by:', 'cleanretina' ).' '.cleanretina_themehorse_link().' | '.' '.__( 'Powered by:', 'cleanretina' ).' '.cleanretina_wp_link() .'</div><!-- .copyright -->';
-   echo $output;
+   $output = '<div class="copyright">'.__( '&copy; [site-link]', 'cleanretina' ).' '.'[the-year] | <a href="/about">About</a> | <a href="/contact">Contact</a> | <a href="/legal">Legal</a>'.'</div><!-- .copyright -->';
+   echo do_shortcode( $output );
 }
 
 /****************************************************************************************/

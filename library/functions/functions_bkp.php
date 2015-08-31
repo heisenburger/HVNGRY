@@ -350,7 +350,7 @@ function cleanretina_theloop() {
         			if( ( is_single() ) ) {
         			?>                        
             	<div class="entry-meta">
-						<?php if($post->post_excerpt) { ?><span class="excerpt"> <?php the_excerpt(); ?></span><br /><?php } ?><span class="by-author"><?php _e( 'By', 'cleanretina' ); ?> <a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>"><?php coauthors(); ?></a></span>
+						<?php if($post->post_excerpt) { ?><span class="excerpt"> <?php the_excerpt(); ?></span><br /><?php } ?><span class="by-author"><?php _e( 'By', 'cleanretina' ); ?> <a href="<?php echo get_author_posts_url( get_the_author_meta( 'ID' ) ); ?>"><?php the_author(); ?></a></span>
                 	<span class="date">on <?php the_time( get_option( 'date_format' ) ); ?> in</span><?php if( has_category() ) { ?>
                 		<span class="category">#<?php the_category(', '); ?></span> 
                 	<?php } ?>
@@ -854,13 +854,5 @@ if ( !function_exists('cleanretina_wp_page_menu_filter') ) {
 }
 
 /**************************************************************************************/
-
-/** add filter to fix image upload problem **/
-/** refirects to different db **/
-add_filter( 'wp_image_editors', 'change_graphic_lib' );
-function change_graphic_lib($array) {
-  return array( 'WP_Image_Editor_GD', 'WP_Image_Editor_Imagick' );
-}
-
 
 ?>

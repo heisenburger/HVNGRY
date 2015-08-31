@@ -52,7 +52,7 @@ function cleanretina_custom_post() {
 	);       
 
 
-	//register_post_type( 'gallery', $args );
+	register_post_type( 'gallery', $args );
 }
 
 ?>

@@ -25,7 +25,7 @@ function cleanretina_display_corporate_template_content() {
 			if( have_posts() ) {
 				while( have_posts() ) {
 					the_post();
-				   $cleanretina_display_corporate_template_content .= '<h3 class="entry-title">' . '<a href="'. get_permalink() . '" title="'.the_title_attribute( 'echo=0' ) . '">'. get_the_title() . '</a></h3>';
+				   $cleanretina_display_corporate_template_content .= '<h2 class="entry-title">' . '<a href="'. get_permalink() . '" title="'.the_title_attribute( 'echo=0' ) . '">'. get_the_title() . '</a></h2>';
 				   $cleanretina_display_corporate_template_content .= '<div class="entry-content clearfix">' . get_the_content() . '</div><!-- .entry-content -->';
 				}
 			}
@@ -56,7 +56,7 @@ function cleanretina_display_corporate_template_content() {
 									'</span>';
 							}
 							if( '' != $title_attribute ) {
-								$cleanretina_display_corporate_template_content .= '<h4 class="service-title">' . get_the_title() . '</h4>';
+								$cleanretina_display_corporate_template_content .= '<h2 class="service-title">' . get_the_title() . '</h2>';
 							}
 							if( '' != $excerpt ) {
 								$cleanretina_display_corporate_template_content .= '<p>' . $excerpt . '</p>';

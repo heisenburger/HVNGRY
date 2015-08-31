@@ -1,10 +1,7 @@
 <?php
 /**
+ * Template Name: Archive-gallery Template
  * Displays archive page for gallery.
- *
- * @package Theme Horse
- * @subpackage Clean_Retina
- * @since Clean Retina 1.0
  */
 ?>
 

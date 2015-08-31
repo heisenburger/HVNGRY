@@ -18,6 +18,7 @@
 		 * HOOKED_FUNCTION_NAME PRIORITY
 		 *
 		 * cleanretina_add_meta 5
+		 * cleanretina_show_title 10
 		 *
 		 */
 		do_action( 'cleanretina_title' );

@@ -15,8 +15,10 @@
 /**
  * Set the content width based on the theme's design and stylesheet.
  */
+add_theme_support( 'post-thumbnails' ); 
+ 
 if ( ! isset( $content_width ) )
-	$content_width = 700;
+	$content_width = 962;
 
 add_action( 'cleanretina_init', 'cleanretina_constants', 10 );
 /**
@@ -38,7 +40,7 @@ function cleanretina_constants() {
 	define( 'CLEANRETINA_JS_DIR', CLEANRETINA_LIBRARY_DIR . '/js' );
 	define( 'CLEANRETINA_CSS_DIR', CLEANRETINA_LIBRARY_DIR . '/css' );	
 	define( 'CLEANRETINA_FUNCTIONS_DIR', CLEANRETINA_LIBRARY_DIR . '/functions' );
-	define( 'CLEANRETINA_SHORTCODES_DIR', CLEANRETINA_LIBRARY_DIR . '/footer_info' );
+	define( 'CLEANRETINA_SHORTCODES_DIR', CLEANRETINA_LIBRARY_DIR . '/shortcodes' );
 	define( 'CLEANRETINA_STRUCTURE_DIR', CLEANRETINA_LIBRARY_DIR . '/structure' );
 	if ( ! defined( 'CLEANRETINA_LANGUAGES_DIR' ) ) /** So we can define with a child theme */
 		define( 'CLEANRETINA_LANGUAGES_DIR', CLEANRETINA_LIBRARY_DIR . '/languages' );
@@ -56,7 +58,7 @@ function cleanretina_constants() {
 	define( 'CLEANRETINA_JS_URL', CLEANRETINA_LIBRARY_URL . '/js' );
 	define( 'CLEANRETINA_CSS_URL', CLEANRETINA_LIBRARY_URL . '/css' );
 	define( 'CLEANRETINA_FUNCTIONS_URL', CLEANRETINA_LIBRARY_URL . '/functions' );
-	define( 'CLEANRETINA_SHORTCODES_URL', CLEANRETINA_LIBRARY_URL . '/footer_info' );
+	define( 'CLEANRETINA_SHORTCODES_URL', CLEANRETINA_LIBRARY_URL . '/shortcodes' );
 	define( 'CLEANRETINA_STRUCTURE_URL', CLEANRETINA_LIBRARY_URL . '/structure' );
 	if ( ! defined( 'CLEANRETINA_LANGUAGES_URL' ) ) /** So we can predefine to child theme */
 		define( 'CLEANRETINA_LANGUAGES_URL', CLEANRETINA_LIBRARY_URL . '/languages' );
@@ -90,7 +92,7 @@ function cleanretina_load_files() {
 	require_once( CLEANRETINA_ADMIN_DIR . '/cleanretina-show-post-id.php' );
 
 	/** Load Shortcodes */
-	require_once( CLEANRETINA_SHORTCODES_DIR . '/cleanretina-footer_info.php' );
+	require_once( CLEANRETINA_SHORTCODES_DIR . '/cleanretina-shortcodes.php' );
 
 	/** Load Structure */
 	require_once( CLEANRETINA_STRUCTURE_DIR . '/header-extensions.php' );
@@ -121,14 +123,6 @@ function cleanretina_core_functionality() {
 	// Add default posts and comments RSS feed links to head
 	add_theme_support( 'automatic-feed-links' );
 
-	/*
-	* Let WordPress manage the document title.
-	* By adding theme support, we declare that this theme does not use a
-	* hard-coded <title> tag in the document head, and expect WordPress to
-	* provide it for us.
-	*/
-	add_theme_support( 'title-tag' );
-
 	// This theme uses Featured Images (also known as post thumbnails) for per-post/per-page.
 	add_theme_support( 'post-thumbnails' ); 
 		
@@ -139,7 +133,7 @@ function cleanretina_core_functionality() {
 	register_nav_menu( 'primary', __( 'Primary Menu', 'cleanretina' ) );
 
 	// Add Clean Retina custom image sizes
-	add_image_size( 'featured', 700, 290, true);
+	add_image_size( 'featured', 962, 370, true);
 	add_image_size( 'featured-medium', 330, 330, true);
 	add_image_size( 'slider', 962, 390, true); 		// used on Featured Slider on Homepage Header
 	add_image_size( 'gallery', 330, 230, true); 		// used to show gallery all images

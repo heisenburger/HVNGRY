@@ -27,13 +27,13 @@ function cleanretina_display_gallery() {
             $large = wp_get_attachment_image_src( get_post_thumbnail_id( $post->ID ), 'large' );
             $output .= '<a rel="portfolio" href="'.$large[0].'" class="gallery-fancybox" title="'.the_title_attribute('echo=0').'">'.get_the_post_thumbnail( $post->ID, 'gallery', array( 'title' => get_the_title(), 'alt' => get_the_title() ) ).'</a></dt>';
           }
-          $output .= '<dd><h4 class="custom-gallery-title">'.get_the_title().'</h4></dd>';
+          $output .= '<dd><h3 class="custom-gallery-title">'.get_the_title().'</h3></dd>';
           $output .= '</dl>'; 
           echo $output;        
         endwhile;
       else:
       ?>
-        <h3 class="entry-title"><?php _e( 'No Posts for this Custom Post Type', 'cleanretina' ); ?></h3>
+        <h1 class="entry-title"><?php _e( 'No Posts for this Custom Post Type', 'cleanretina' ); ?></h1>
       <?php
       endif;
 		?>		

@@ -24,6 +24,68 @@ function cleanretina_add_meta() {
 
 /****************************************************************************************/
 
+add_action( 'cleanretina_title', 'cleanretina_show_title', 10 );
+/**
+ * Showing the title in the browser tab.
+ * 
+ * @uses wp_title() Display the title on the browser tab.
+ */
+function cleanretina_show_title() {
+?>
+	<title>
+		<?php
+		/**
+		 * Print the <title> tag based on what is being viewed.
+		 */
+		wp_title( '|', true, 'right' );
+		?>
+	</title>
+<?php
+}
+
+add_filter( 'wp_title', 'cleanretina_filter_wp_title' );
+/**
+ * Modifying the Title
+ *
+ * Function tied to the wp_title filter hook.
+ * @uses filter wp_title
+ */
+function cleanretina_filter_wp_title( $title ) {
+	global $page, $paged;
+	
+	// Get the Site Name
+   $site_name = get_bloginfo( 'name' );
+
+   // Get the Site Description
+   $site_description = get_bloginfo( 'description' );
+
+   $filtered_title = ''; 
+
+	// For Homepage or Frontpage
+   if(  is_home() || is_front_page() ) {		
+		$filtered_title .= $site_name;	
+		if ( !empty( $site_description ) )  {
+        	$filtered_title .= ' &#124; '. $site_description;
+		}
+   }
+	elseif( is_feed() ) {
+		$filtered_title = '';
+	}
+	else{	
+		$filtered_title = $title . $site_name;
+	}
+
+	// Add a page number if necessary:
+	if( $paged >= 2 || $page >= 2 ) {
+		$filtered_title .= ' &#124; ' . sprintf( __( 'Page %s', 'cleanretina' ), max( $paged, $page ) );
+	}
+	
+	// Return the modified title
+   return $filtered_title;
+}
+
+/****************************************************************************************/
+
 add_action( 'cleanretina_links', 'cleanretina_add_links', 10 );
 /**
  * Adding link to stylesheet file
@@ -145,7 +207,7 @@ function cleanretina_headerdetails() {
 				if( 0 == $options[ 'hide_header_searchform' ] || 1 == $flag ) {
 			?>
 					<section class="hgroup-right">
-						<?php cleanretina_socialnetworks( $flag ); ?>
+						
 						<?php if( 0 == $options[ 'hide_header_searchform' ] ) get_search_form(); ?>
 					</section><!-- .hgroup-right -->	
 			<?php
@@ -153,13 +215,8 @@ function cleanretina_headerdetails() {
 			?>	
 
 			<hgroup id="site-logo" class="clearfix">
-				<?php if(is_home() || is_archive() || is_search() || is_page_template( 'page-template-corporate.php' )){?>
 				<h1 id="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h1>
 				<h2 id="site-description"><?php bloginfo( 'description' ); ?></h2>
-				<?php } else { ?>
-				<h3 id="site-title"><a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a></h3>
-				<h4 id="site-description"><?php bloginfo( 'description' ); ?></h4>
-				<?php } ?>
 			</hgroup><!-- #site-logo -->
 
 			<?php $header_image = get_header_image();

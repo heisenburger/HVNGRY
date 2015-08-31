@@ -19,8 +19,8 @@ function cleanretina_widgets_init() {
 		'description'   	=> __( 'Shows widgets at side.', 'cleanretina' ),
 		'before_widget' 	=> '<aside id="%1$s" class="widget %2$s">',
 		'after_widget'  	=> '</aside>',
-		'before_title'  	=> '<h4 class="widget-title">',
-		'after_title'   	=> '</h4>'
+		'before_title'  	=> '<h3 class="widget-title">',
+		'after_title'   	=> '</h3>'
 	) );
 
 	// Registering footer sidebar
@@ -30,8 +30,8 @@ function cleanretina_widgets_init() {
 		'description'   	=> __( 'Shows widgets at footer.', 'cleanretina' ),
 		'before_widget' 	=> '<aside id="%1$s" class="widget %2$s">',
 		'after_widget'  	=> '</aside>',
-		'before_title'  	=> '<h4 class="widget-title">',
-		'after_title'   	=> '</h4>'
+		'before_title'  	=> '<h3 class="widget-title">',
+		'after_title'   	=> '</h3>'
 	) );
 
 	// Registering widgets
@@ -52,7 +52,7 @@ class cleanretina_custom_tag_widget extends WP_Widget {
 	function cleanretina_custom_tag_widget() {
 		$widget_ops = array( 'classname' => 'widget_custom-tagcloud', 'description' => __( 'Displays Custom Tag Cloud', 'cleanretina' ) );
 		$control_ops = array('width' => 200, 'height' => 250);
-		parent::__construct( false, $name = __( 'Theme Horse: Custom Tag Cloud', 'cleanretina' ), $widget_ops, $control_ops );
+		parent::WP_Widget( false, $name = __( 'Theme Horse: Custom Tag Cloud', 'cleanretina' ), $widget_ops, $control_ops );
 	}
 	
 	/** Displays the Widget in the front-end.

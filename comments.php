@@ -26,7 +26,7 @@ if ( post_password_required() )
 	<?php // You can start editing here -- including this comment! ?>
 
 	<?php if ( have_comments() ) : ?>
-		<h4 class="comments-title">
+		<h2 class="comments-title">
 			<?php
 				if( 1 == get_comments_number() ) {
 					printf( __( 'One thought on &ldquo;%2$s&rdquo;', 'cleanretina' ), number_format_i18n( get_comments_number() ), '<span>' . get_the_title() . '</span>' );
@@ -35,7 +35,7 @@ if ( post_password_required() )
 					printf( __( '%1$s thoughts on &ldquo;%2$s&rdquo;', 'cleanretina' ), number_format_i18n( get_comments_number() ), '<span>' . get_the_title() . '</span>' );
 				}				
 			?>
-		</h4>
+		</h2>
 
 		<ol class="commentlist">
 			<?php wp_list_comments( array( 'callback' => 'cleanretina_comment', 'style' => 'ol' ) ); ?>
@@ -43,7 +43,7 @@ if ( post_password_required() )
 
 		<?php if ( get_comment_pages_count() > 1 && get_option( 'page_comments' ) ) : // are there comments to navigate through ?>
 		<ul class="default-wp-page clearfix">
-			<h4 class="assistive-text section-heading"><?php _e( 'Comment navigation', 'cleanretina' ); ?></h4>
+			<h1 class="assistive-text section-heading"><?php _e( 'Comment navigation', 'cleanretina' ); ?></h1>
 			<li class="previous"><?php previous_comments_link( __( '&larr; Older Comments', 'cleanretina' ) ); ?></li>
 			<li class="next"><?php next_comments_link( __( 'Newer Comments &rarr;', 'cleanretina' ) ); ?></li>
 		</ul>

@@ -1,10 +1,6 @@
 <?php
 /**
- * Displays the archive section of the theme.
- *
- * @package Theme Horse
- * @subpackage Clean_Retina
- * @since Clean Retina 1.0
+ * Template Name: Archive Template
  */
 ?>
 
