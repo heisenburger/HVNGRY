@@ -1,0 +1,794 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Retina\n"
+"POT-Creation-Date: 2013-04-23 12:05+0330\n"
+"PO-Revision-Date: 2013-04-23 20:39+0330\n"
+"Last-Translator: Alimir <info@alimir.ir>\n"
+"Language-Team: alimir.ir <info@alimir.ir>\n"
+"Language: Persian\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _x;esc_attr_e;esc_attr__;__;_e;_n\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../admin/cleanretina-custom-post-types.php:19
+#: ../admin/cleanretina-custom-post-types.php:20
+msgid "Gallery"
+msgstr "گالری"
+
+#: ../admin/cleanretina-custom-post-types.php:21
+msgid "All Galleries"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:22
+#: ../admin/cleanretina-custom-post-types.php:23
+msgid "Add New"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:24
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:25
+msgid "New Gallery"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:26
+msgid "View Gallery"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:27
+msgid "search Gallery"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:28
+msgid "No Gallery Found"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:29
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:30
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../admin/cleanretina-custom-post-types.php:31
+msgid "Galleries"
+msgstr "گالری"
+
+#: ../admin/cleanretina-custom-post-types.php:36
+msgid "Custom Gallery Posts"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template.)"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "تنظیمات پوسته"
+
+#: ../admin/cleanretina-metaboxes.php:44
+msgid "No sidebar"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:56 ../admin/theme-options.php:261
+#: ../admin/theme-options.php:308
+msgid "No Sidebar, One Column"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:62
+msgid "Left sidebar"
+msgstr ""
+
+#: ../admin/cleanretina-metaboxes.php:68
+msgid "Right sidebar"
+msgstr ""
+
+#: ../admin/theme-options.php:95 ../admin/theme-options.php:96
+msgid "Theme Options"
+msgstr "تنظیمات پوسته"
+
+#: ../admin/theme-options.php:125
+msgid "Theme Options by"
+msgstr ""
+
+#: ../admin/theme-options.php:125
+msgid "http://themehorse.com/"
+msgstr ""
+
+#: ../admin/theme-options.php:125 ../shortcodes/cleanretina-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "تم هورس"
+
+#: ../admin/theme-options.php:127
+msgid "Support theme development"
+msgstr "ویرایش و فارسی سازی در "
+
+#: ../admin/theme-options.php:128 ../shortcodes/cleanretina-shortcodes.php:52
+msgid "wp world"
+msgstr "دنیای وردپرس و برنامه نویسی"
+
+#: ../admin/theme-options.php:142
+msgid "Settings saved."
+msgstr ""
+
+#: ../admin/theme-options.php:148
+msgid "Design Options"
+msgstr "تنظیمات ظاهر قالب"
+
+#: ../admin/theme-options.php:149
+msgid "Advance Options"
+msgstr "تنظیمات پیشرفته"
+
+#: ../admin/theme-options.php:150
+msgid "Featured Post/Page Slider"
+msgstr "اسلایدشو پست های مشابه"
+
+#: ../admin/theme-options.php:151
+msgid "Social Links"
+msgstr "لینک شبکه های اجتماعی"
+
+#: ../admin/theme-options.php:152
+msgid "Webmaster Tools"
+msgstr "تنظمیات وب مستر"
+
+#: ../admin/theme-options.php:158
+msgid "Custom Header"
+msgstr ""
+
+#: ../admin/theme-options.php:164
+msgid "Need to replace default header?"
+msgstr ""
+
+#: ../admin/theme-options.php:167 ../admin/theme-options.php:356
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr ""
+
+#: ../admin/theme-options.php:171
+msgid "Hide Searchform from Header"
+msgstr ""
+
+#: ../admin/theme-options.php:173
+msgid "Check to hide"
+msgstr ""
+
+#: ../admin/theme-options.php:177 ../admin/theme-options.php:208
+#: ../admin/theme-options.php:239 ../admin/theme-options.php:283
+#: ../admin/theme-options.php:342 ../admin/theme-options.php:389
+#: ../admin/theme-options.php:441 ../admin/theme-options.php:487
+#: ../admin/theme-options.php:514 ../admin/theme-options.php:527
+#: ../admin/theme-options.php:545 ../admin/theme-options.php:578
+#: ../admin/theme-options.php:644 ../admin/theme-options.php:670
+#: ../admin/theme-options.php:708 ../admin/theme-options.php:739
+#: ../admin/theme-options.php:769
+msgid "Save All Changes"
+msgstr ""
+
+#: ../admin/theme-options.php:182
+msgid "Fav Icon Options"
+msgstr ""
+
+#: ../admin/theme-options.php:187
+msgid "Disable Favicon"
+msgstr ""
+
+#: ../admin/theme-options.php:189 ../admin/theme-options.php:220
+#: ../admin/theme-options.php:408 ../admin/theme-options.php:594
+msgid "Check to disable"
+msgstr ""
+
+#: ../admin/theme-options.php:192
+msgid "Fav Icon URL"
+msgstr ""
+
+#: ../admin/theme-options.php:195
+msgid "Change Fav Icon"
+msgstr ""
+
+#: ../admin/theme-options.php:199 ../admin/theme-options.php:230
+msgid "Preview"
+msgstr ""
+
+#: ../admin/theme-options.php:202
+msgid "favicon"
+msgstr ""
+
+#: ../admin/theme-options.php:213
+msgid "Web Clip Icon Options"
+msgstr ""
+
+#: ../admin/theme-options.php:218
+msgid "Disable Web Clip Icon"
+msgstr ""
+
+#: ../admin/theme-options.php:223
+msgid "Web Clip Icon URL"
+msgstr ""
+
+#: ../admin/theme-options.php:226
+msgid "Change Web Clip Icon"
+msgstr ""
+
+#: ../admin/theme-options.php:233
+msgid "webpage icon"
+msgstr ""
+
+#: ../admin/theme-options.php:244
+msgid "Default Layout Options"
+msgstr ""
+
+#: ../admin/theme-options.php:249
+msgid "Default Layout"
+msgstr ""
+
+#: ../admin/theme-options.php:253 ../admin/theme-options.php:300
+msgid "No Sidebar"
+msgstr ""
+
+#: ../admin/theme-options.php:257 ../admin/theme-options.php:304
+msgid "No Sidebar, Full Width"
+msgstr ""
+
+#: ../admin/theme-options.php:265 ../admin/theme-options.php:312
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../admin/theme-options.php:269 ../admin/theme-options.php:316
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../admin/theme-options.php:275
+msgid "Reset Layout"
+msgstr ""
+
+#: ../admin/theme-options.php:278
+msgid "Check to reset"
+msgstr ""
+
+#: ../admin/theme-options.php:288
+msgid "Home Page Layout Options"
+msgstr ""
+
+#: ../admin/theme-options.php:293
+msgid "Home Page Layout"
+msgstr ""
+
+#: ../admin/theme-options.php:294
+msgid ""
+"To select one of these layouts, Latest Posts should be checked in Reading "
+"sub-menu of Settings menu. <strong>Go to Settings->Reading->Check on 'Your "
+"Latest Posts'</strong>"
+msgstr ""
+
+#: ../admin/theme-options.php:295
+msgid ""
+"If you chose the corporate layout then you will have to add corporate layout "
+"content from Home Corporate Layout option under Advanced Options Tab."
+msgstr ""
+
+#: ../admin/theme-options.php:320
+msgid "Corporate Layout"
+msgstr ""
+
+#: ../admin/theme-options.php:325
+msgid "Blog Display Type on Home Page"
+msgstr ""
+
+#: ../admin/theme-options.php:329
+msgid "Excerpt Display Type 1"
+msgstr ""
+
+#: ../admin/theme-options.php:333
+msgid "Excerpt Display Type 2"
+msgstr ""
+
+#: ../admin/theme-options.php:337
+msgid "Full Content Display"
+msgstr ""
+
+#: ../admin/theme-options.php:347
+msgid "Custom Background"
+msgstr ""
+
+#: ../admin/theme-options.php:353
+msgid "Need to replace default background?"
+msgstr ""
+
+#: ../admin/theme-options.php:359
+msgid ""
+"Note: The custom background change will be reflected in content part not the "
+"header and footer part. If you want to reflect change in the footer and "
+"header part as well, please add your custom css from below to hide the "
+"header and footer pattern. You will then see the changes in header and "
+"footer as well."
+msgstr ""
+
+#: ../admin/theme-options.php:368
+msgid "Custom CSS"
+msgstr ""
+
+#: ../admin/theme-options.php:373
+msgid "Enter your custom CSS styles."
+msgstr ""
+
+#: ../admin/theme-options.php:374
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr ""
+
+#: ../admin/theme-options.php:382
+msgid "CSS Tutorial from W3Schools."
+msgstr ""
+
+#: ../admin/theme-options.php:384
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr ""
+
+#: ../admin/theme-options.php:384
+msgid "CSS Tutorial"
+msgstr ""
+
+#: ../admin/theme-options.php:384
+msgid "Click Here to Read"
+msgstr ""
+
+#: ../admin/theme-options.php:399
+msgid "Home Slogan Options"
+msgstr ""
+
+#: ../admin/theme-options.php:405
+msgid "Disable Slogan Part"
+msgstr ""
+
+#: ../admin/theme-options.php:411
+msgid "Slogan Position"
+msgstr ""
+
+#: ../admin/theme-options.php:415
+msgid "Above Slider"
+msgstr ""
+
+#: ../admin/theme-options.php:419
+msgid "Below Slider"
+msgstr ""
+
+#: ../admin/theme-options.php:424
+msgid "Home Page Slogan1"
+msgstr ""
+
+#: ../admin/theme-options.php:425 ../admin/theme-options.php:433
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr ""
+
+#: ../admin/theme-options.php:432
+msgid "Home Page Slogan2"
+msgstr ""
+
+#: ../admin/theme-options.php:446
+msgid "Home's Corporate Type Layout Options"
+msgstr ""
+
+#: ../admin/theme-options.php:451
+msgid "Corporate Content Title"
+msgstr ""
+
+#: ../admin/theme-options.php:457
+msgid "Featured Box #"
+msgstr ""
+
+#: ../admin/theme-options.php:460 ../admin/theme-options.php:463
+msgid "Upload Icon Image"
+msgstr ""
+
+#: ../admin/theme-options.php:467
+msgid "Redirect Link"
+msgstr ""
+
+#: ../admin/theme-options.php:473
+msgid "Title"
+msgstr "عنوان"
+
+#: ../admin/theme-options.php:479
+msgid "Description"
+msgstr "توصیف"
+
+#: ../admin/theme-options.php:492
+msgid "Corporate Page Template Options"
+msgstr ""
+
+#: ../admin/theme-options.php:498
+msgid "About:"
+msgstr "درباره:"
+
+#: ../admin/theme-options.php:501
+msgid ""
+"Settings used on pages that use the \"Corporate Template\" page template. "
+"This template must be assigned to a page before its settings take effect."
+msgstr ""
+
+#: ../admin/theme-options.php:506
+msgid "Page # "
+msgstr "برگه #"
+
+#: ../admin/theme-options.php:519
+msgid "Excerpt Options"
+msgstr ""
+
+#: ../admin/theme-options.php:523
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../admin/theme-options.php:524
+msgid "word(s). Default value for excerpt length is 30 words."
+msgstr ""
+
+#: ../admin/theme-options.php:532
+msgid "Feed Redirect"
+msgstr ""
+
+#: ../admin/theme-options.php:538
+msgid "Feed Redirect URL"
+msgstr ""
+
+#: ../admin/theme-options.php:550
+msgid "Homepage / Frontpage Category Setting"
+msgstr ""
+
+#: ../admin/theme-options.php:556
+msgid "Front page posts categories:"
+msgstr ""
+
+#: ../admin/theme-options.php:558
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+
+#: ../admin/theme-options.php:563
+msgid "--Disabled--"
+msgstr ""
+
+#: ../admin/theme-options.php:573
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr ""
+
+#: ../admin/theme-options.php:588
+msgid "Slider Options"
+msgstr ""
+
+#: ../admin/theme-options.php:592
+msgid "Disable Slider"
+msgstr ""
+
+#: ../admin/theme-options.php:597
+msgid "Number of Slides"
+msgstr ""
+
+#: ../admin/theme-options.php:602
+msgid "Transition Effect:"
+msgstr ""
+
+#: ../admin/theme-options.php:622 ../admin/theme-options.php:699
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../admin/theme-options.php:630
+msgid "Transition Delay"
+msgstr ""
+
+#: ../admin/theme-options.php:633 ../admin/theme-options.php:640
+msgid "second(s)"
+msgstr ""
+
+#: ../admin/theme-options.php:637
+msgid "Transition Length"
+msgstr ""
+
+#: ../admin/theme-options.php:649
+msgid "Featured Post/Page Slider Options"
+msgstr ""
+
+#: ../admin/theme-options.php:653
+msgid "Exclude Slider post from Homepage posts?"
+msgstr ""
+
+#: ../admin/theme-options.php:655
+msgid "Check to exclude"
+msgstr ""
+
+#: ../admin/theme-options.php:660
+msgid "Featured Slider Post/Page #"
+msgstr ""
+
+#: ../admin/theme-options.php:662
+msgid "Click Here To Edit"
+msgstr "برای ویرایش اینجا را کلیک کنید"
+
+#: ../admin/theme-options.php:668
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last column.)"
+"<br />* Featured Slider will show featured images, Title and excerpt of the "
+"respected added post's IDs."
+msgstr ""
+
+#: ../admin/theme-options.php:669
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+
+#: ../admin/theme-options.php:716
+msgid "Site Verification"
+msgstr ""
+
+#: ../admin/theme-options.php:721
+msgid "Google Site Verification ID"
+msgstr ""
+
+#: ../admin/theme-options.php:722
+msgid "Enter your Google ID number only"
+msgstr ""
+
+#: ../admin/theme-options.php:727
+msgid "Yahoo Site Verification ID"
+msgstr ""
+
+#: ../admin/theme-options.php:728
+msgid "Enter your Yahoo ID number only"
+msgstr ""
+
+#: ../admin/theme-options.php:733
+msgid "Bing Site Verification ID"
+msgstr ""
+
+#: ../admin/theme-options.php:734
+msgid "Enter your Bing ID number only"
+msgstr ""
+
+#: ../admin/theme-options.php:744
+msgid "Analytics"
+msgstr ""
+
+#: ../admin/theme-options.php:749
+msgid "Code to display on Header"
+msgstr ""
+
+#: ../admin/theme-options.php:755
+msgid "Note: Enter your custom header script."
+msgstr ""
+
+#: ../admin/theme-options.php:758
+msgid "Code to display on Footer"
+msgstr ""
+
+#: ../admin/theme-options.php:765
+msgid "Note: Enter your custom footer script."
+msgstr ""
+
+#: ../functions/functions.php:330
+msgid "By"
+msgstr "توسط"
+
+#: ../functions/functions.php:336
+msgid "No Comments"
+msgstr "بدون دیدگاه"
+
+#: ../functions/functions.php:336
+msgid "1 Comment"
+msgstr "یک دیدگاه"
+
+#: ../functions/functions.php:336
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: ../functions/functions.php:336
+msgid "Comments Off"
+msgstr "دیدگاه ها بسته شده اند."
+
+#: ../functions/functions.php:354 ../functions/functions.php:360
+msgid "Permalink to "
+msgstr "لینک همیشگی به "
+
+#: ../functions/functions.php:379
+msgid "Read more"
+msgstr "ادامه مطلب"
+
+#: ../functions/functions.php:386
+msgid ", "
+msgstr ""
+
+#: ../functions/functions.php:392
+msgid "Tagged on: "
+msgstr "برچسب شده در:"
+
+#: ../functions/functions.php:400
+msgid "Pages:"
+msgstr "برگه ها:"
+
+#: ../functions/functions.php:435
+msgid "No Posts Found."
+msgstr "مطلبی یافت نشد."
+
+#: ../functions/functions.php:436
+msgid "Try a new search."
+msgstr "یک بار دیگر جستجو کنید."
+
+#: ../functions/functions.php:458
+msgid "&laquo; Previous"
+msgstr "قبلی &laquo;"
+
+#: ../functions/functions.php:459
+msgid "Next &raquo;"
+msgstr "&raquo; بعدی"
+
+#: ../functions/functions.php:476
+msgid "&larr; Previous"
+msgstr "قبلی &larr;"
+
+#: ../functions/functions.php:477
+msgid "Next &rarr;"
+msgstr "&rarr; بعدی"
+
+#: ../functions/functions.php:484
+msgid "&larr;"
+msgstr ""
+
+#: ../functions/functions.php:485
+msgid "&rarr;"
+msgstr ""
+
+#: ../functions/functions.php:693
+msgid "Pingback:"
+msgstr ""
+
+#: ../functions/functions.php:693
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: ../functions/functions.php:708
+msgid "Post author"
+msgstr "نویسنده:"
+
+#: ../functions/functions.php:714
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: ../functions/functions.php:720
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در دست بررسی مدیریت سایت می باشد."
+
+#: ../functions/functions.php:725
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../functions/functions.php:729
+msgid "Reply <span>&darr;</span>"
+msgstr "پاسخ <span>&darr;</span>"
+
+#: ../functions/functions.php:748
+msgid "Error 404-Page NOT Found"
+msgstr "خطای 404 - صفحه ای یافت نشد!"
+
+#: ../functions/functions.php:751
+msgid "It seems we can't find what you're looking for."
+msgstr "متأسفانه نمی توانیم آنچه به دنبالش هستید را پیدا کنیم!"
+
+#: ../functions/functions.php:752
+msgid "This might be because:"
+msgstr "این خطا ممکن است به دلیل این باشد که:"
+
+#: ../functions/functions.php:753
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"شما آدرس اشتباهی را وارد کرده اید، یا اینکه این صفحه جا به جا و یا پاک شده "
+"باشد!"
+
+#: ../functions/functions.php:754
+msgid "Please try the following instead:"
+msgstr "اگر از صحت آدرس مطمئن هستید:"
+
+#: ../functions/functions.php:755
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"بررسی کنید که خطایی در تایپ آدرس لینک وجود نداشته باشد، سپس صفحه ی مرورگر را "
+"رفرش کنید."
+
+#: ../structure/archive-gallery-extensions.php:36
+msgid "No Posts for this Custom Post Type"
+msgstr ""
+
+#: ../structure/footer-extensions.php:62
+msgid "Copyright &copy;"
+msgstr "&copy; کپی رایت"
+
+#: ../structure/footer-extensions.php:62
+msgid "Theme by:"
+msgstr "طراح قالب "
+
+#: ../structure/footer-extensions.php:62
+msgid "Powered by:"
+msgstr "ویرایش و فارسی سازی در  "
+
+#: ../structure/footer-extensions.php:92
+msgid "Back to Top"
+msgstr "بازگشت به بالا"
+
+#: ../structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "برگه %s"
+
+#: ../structure/header-extensions.php:311
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s  در %2$s"
+
+#: ../structure/header-extensions.php:402
+msgid "Continue Reading"
+msgstr "ادامه مطلب"
+
+#: ../structure/searchform-extensions.php:20
+#: ../structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "جستجو"
+
+#: ../widgets/cleanretina_widgets.php:17
+msgid "Side Sidebar"
+msgstr "ستون کناری"
+
+#: ../widgets/cleanretina_widgets.php:19
+msgid "Shows widgets at side."
+msgstr ""
+
+#: ../widgets/cleanretina_widgets.php:28
+msgid "Footer Sidebar"
+msgstr "پانوشت"
+
+#: ../widgets/cleanretina_widgets.php:30
+msgid "Shows widgets at footer."
+msgstr ""
+
+#: ../widgets/cleanretina_widgets.php:53
+msgid "Displays Custom Tag Cloud"
+msgstr "نمایش اختصاصی برچسب ها در سایت شما."
+
+#: ../widgets/cleanretina_widgets.php:55
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "ابزارک مخصوص نمایش برچسب ها"
+
+#: ../widgets/cleanretina_widgets.php:107
+msgid "Title:"
+msgstr "عنوان:"
+
+#~ msgid "WordPress"
+#~ msgstr "تم هورس"

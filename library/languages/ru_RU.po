@@ -1,0 +1,1107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Retina v1.3.5\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-01-05 18:24:28+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%100/10==1 ? 2 : n%10==1 ? 0 : (n+9)%10>3 ? 2 : 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:32
+#, php-format
+#@ cleanretina
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Один комментарий к &ldquo;%2$s&rdquo;"
+
+#: comments.php:35
+#, php-format
+#@ cleanretina
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s комментариев к &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+#@ cleanretina
+msgid "Comment navigation"
+msgstr "Комментарий навигации"
+
+#: comments.php:47
+#@ cleanretina
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:48
+#@ cleanretina
+msgid "Newer Comments &rarr;"
+msgstr "Более свежие комментарии &rarr;"
+
+#: comments.php:55
+#@ cleanretina
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: functions.php:131
+#@ cleanretina
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+#: library/admin/cleanretina-custom-post-types.php:36
+#@ cleanretina
+msgid "Custom Gallery Posts"
+msgstr "Пользовательские Галерея Сообщений"
+
+#: library/admin/cleanretina-metaboxes.php:25
+#@ cleanretina
+msgid "Select layout for this specific Post only"
+msgstr "Выберите макет для данной страницы."
+
+#: library/admin/cleanretina-metaboxes.php:38
+#@ cleanretina
+msgid "Default Layout Set in"
+msgstr "Шаблон по умолчанию"
+
+#: library/admin/cleanretina-metaboxes.php:38
+#@ cleanretina
+msgid "Theme Settings"
+msgstr "Настройки темы"
+
+#: library/admin/cleanretina-metaboxes.php:44
+#@ cleanretina
+msgid "No sidebar"
+msgstr "Без боковой колонки"
+
+#: library/admin/cleanretina-metaboxes.php:50
+#@ cleanretina
+msgid "No sidebar, Full Width"
+msgstr "Без боковых колонок, во всю ширину"
+
+#: library/admin/cleanretina-metaboxes.php:56
+#: library/admin/theme-options.php:273
+#: library/admin/theme-options.php:320
+#@ cleanretina
+msgid "No Sidebar, One Column"
+msgstr "Без боковых колонок, одна колонка"
+
+#: library/admin/cleanretina-metaboxes.php:62
+#@ cleanretina
+msgid "Left sidebar"
+msgstr "Левая боковая колонка"
+
+#: library/admin/cleanretina-metaboxes.php:68
+#@ cleanretina
+msgid "Right sidebar"
+msgstr "Правая боковая колонка"
+
+#: library/admin/theme-options.php:95
+#: library/admin/theme-options.php:96
+#@ cleanretina
+msgid "Theme Options"
+msgstr "Настройки темы"
+
+#: library/admin/theme-options.php:125
+#@ cleanretina
+msgid "Theme Options by"
+msgstr "Настройки темы от"
+
+#: library/admin/theme-options.php:125
+#: library/shortcodes/cleanretina-shortcodes.php:61
+#@ cleanretina
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/admin/theme-options.php:128
+#@ cleanretina
+msgid "Clean Retina Theme Instructions"
+msgstr "инструкции к теме Clean Retina"
+
+#: library/admin/theme-options.php:128
+#@ cleanretina
+msgid "Theme Instructions"
+msgstr "Инструкции к теме"
+
+#: library/admin/theme-options.php:129
+#@ cleanretina
+msgid "Support Forum"
+msgstr "Форум поддержки"
+
+#: library/admin/theme-options.php:130
+#@ cleanretina
+msgid "Clean Retina Demo"
+msgstr "Демо Clean Retina "
+
+#: library/admin/theme-options.php:130
+#@ cleanretina
+msgid "View Demo"
+msgstr "Демо-сайт"
+
+#: library/admin/theme-options.php:134
+#@ cleanretina
+msgid "Upgrade to Pro"
+msgstr "Перейти на Про - версию"
+
+#: library/admin/theme-options.php:135
+#@ cleanretina
+msgid "Donate"
+msgstr "Сделать пожертвование"
+
+#: library/admin/theme-options.php:136
+#@ cleanretina
+msgid "Review Clean Retina"
+msgstr "Обзор Clean Retina"
+
+#: library/admin/theme-options.php:136
+#@ cleanretina
+msgid "Rate Clean Retina"
+msgstr "Оценить Clean Retina"
+
+#: library/admin/theme-options.php:154
+#@ cleanretina
+msgid "Settings saved."
+msgstr "Настройки сохранены."
+
+#: library/admin/theme-options.php:160
+#@ cleanretina
+msgid "Design Options"
+msgstr "Настройки отображения"
+
+#: library/admin/theme-options.php:161
+#@ cleanretina
+msgid "Advance Options"
+msgstr "Расширенные настройки"
+
+#: library/admin/theme-options.php:162
+#@ cleanretina
+msgid "Featured Post/Page Slider"
+msgstr "Лучший пост / Страница слайдера"
+
+#: library/admin/theme-options.php:163
+#@ cleanretina
+msgid "Social Links"
+msgstr "Социальные ссылки"
+
+#: library/admin/theme-options.php:164
+#@ cleanretina
+msgid "Webmaster Tools"
+msgstr "Инструменты Веб-разработчика"
+
+#: library/admin/theme-options.php:170
+#@ cleanretina
+msgid "Custom Header"
+msgstr "Настройки Шапки"
+
+#: library/admin/theme-options.php:179
+#: library/admin/theme-options.php:368
+#, php-format
+#@ cleanretina
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Click here</a>"
+
+#: library/admin/theme-options.php:183
+#@ cleanretina
+msgid "Hide Searchform from Header"
+msgstr "Скрыть форму поиска из Заголовка"
+
+#: library/admin/theme-options.php:185
+#@ cleanretina
+msgid "Check to hide"
+msgstr "Установить, чтобы скрыть"
+
+#: library/admin/theme-options.php:189
+#: library/admin/theme-options.php:220
+#: library/admin/theme-options.php:251
+#: library/admin/theme-options.php:295
+#: library/admin/theme-options.php:354
+#: library/admin/theme-options.php:401
+#: library/admin/theme-options.php:453
+#: library/admin/theme-options.php:499
+#: library/admin/theme-options.php:526
+#: library/admin/theme-options.php:539
+#: library/admin/theme-options.php:557
+#: library/admin/theme-options.php:590
+#: library/admin/theme-options.php:656
+#: library/admin/theme-options.php:682
+#: library/admin/theme-options.php:735
+#: library/admin/theme-options.php:768
+#@ cleanretina
+msgid "Save All Changes"
+msgstr "Сохранить все изменения"
+
+#: library/admin/theme-options.php:194
+#@ cleanretina
+msgid "Fav Icon Options"
+msgstr "Fav Icon Параметры"
+
+#: library/admin/theme-options.php:199
+#@ cleanretina
+msgid "Disable Favicon"
+msgstr "Отключение Favicon"
+
+#: library/admin/theme-options.php:201
+#: library/admin/theme-options.php:232
+#: library/admin/theme-options.php:420
+#: library/admin/theme-options.php:606
+#@ cleanretina
+msgid "Check to disable"
+msgstr "Установить чтобы отключить"
+
+#: library/admin/theme-options.php:204
+#@ cleanretina
+msgid "Fav Icon URL"
+msgstr "Fav Icon URL"
+
+#: library/admin/theme-options.php:207
+#@ cleanretina
+msgid "Change Fav Icon"
+msgstr "Установить Favicon"
+
+#: library/admin/theme-options.php:211
+#: library/admin/theme-options.php:242
+#@ cleanretina
+msgid "Preview"
+msgstr "Предварительный просмотр"
+
+#: library/admin/theme-options.php:214
+#@ cleanretina
+msgid "favicon"
+msgstr "Favicon"
+
+#: library/admin/theme-options.php:225
+#@ cleanretina
+msgid "Web Clip Icon Options"
+msgstr "Web Clip Icon Опции"
+
+#: library/admin/theme-options.php:230
+#@ cleanretina
+msgid "Disable Web Clip Icon"
+msgstr "Отключить Web Clip Icon"
+
+#: library/admin/theme-options.php:235
+#@ cleanretina
+msgid "Web Clip Icon URL"
+msgstr "Web Clip Icon URL"
+
+#: library/admin/theme-options.php:238
+#@ cleanretina
+msgid "Change Web Clip Icon"
+msgstr "Изменить Web Clip Icon"
+
+#: library/admin/theme-options.php:245
+#@ cleanretina
+msgid "webpage icon"
+msgstr "webpage icon"
+
+#: library/admin/theme-options.php:256
+#@ cleanretina
+msgid "Default Layout Options"
+msgstr "Параметры Макета по умолчанию "
+
+#: library/admin/theme-options.php:261
+#@ cleanretina
+msgid "Default Layout"
+msgstr "По умолчанию Макет"
+
+#: library/admin/theme-options.php:265
+#: library/admin/theme-options.php:312
+#@ cleanretina
+msgid "No Sidebar"
+msgstr "Нет Боковая панель"
+
+#: library/admin/theme-options.php:269
+#: library/admin/theme-options.php:316
+#@ cleanretina
+msgid "No Sidebar, Full Width"
+msgstr "Нет Боковая панель, полная ширина"
+
+#: library/admin/theme-options.php:277
+#: library/admin/theme-options.php:324
+#@ cleanretina
+msgid "Left Sidebar"
+msgstr "Слева Панель"
+
+#: library/admin/theme-options.php:281
+#: library/admin/theme-options.php:328
+#@ cleanretina
+msgid "Right Sidebar"
+msgstr "Правильный Sidebar"
+
+#: library/admin/theme-options.php:287
+#@ cleanretina
+msgid "Reset Layout"
+msgstr "Сброс настроек"
+
+#: library/admin/theme-options.php:290
+#@ cleanretina
+msgid "Check to reset"
+msgstr "Проверьте, чтобы сбросить"
+
+#: library/admin/theme-options.php:300
+#@ cleanretina
+msgid "Home Page Layout Options"
+msgstr "Главная Опции макета страницы"
+
+#: library/admin/theme-options.php:305
+#@ cleanretina
+msgid "Home Page Layout"
+msgstr "Домашняя страница Макет"
+
+#: library/admin/theme-options.php:332
+#@ cleanretina
+msgid "Corporate Layout"
+msgstr "Корпоративный Макет"
+
+#: library/admin/theme-options.php:337
+#@ cleanretina
+msgid "Blog Display Type on Home Page"
+msgstr "Блог Тип дисплея на главную страницу"
+
+#: library/admin/theme-options.php:341
+#@ cleanretina
+msgid "Excerpt Display Type 1"
+msgstr "Тип Отрывок Дисплей 1"
+
+#: library/admin/theme-options.php:345
+#@ cleanretina
+msgid "Excerpt Display Type 2"
+msgstr "Тип Отрывок Дисплей 2"
+
+#: library/admin/theme-options.php:349
+#@ cleanretina
+msgid "Full Content Display"
+msgstr "Полный Публикации пользователя"
+
+#: library/admin/theme-options.php:359
+#@ cleanretina
+msgid "Custom Background"
+msgstr "Пользовательские фона"
+
+#: library/admin/theme-options.php:380
+#@ cleanretina
+msgid "Custom CSS"
+msgstr "Пользовательские CSS"
+
+#: library/admin/theme-options.php:385
+#@ cleanretina
+msgid "Enter your custom CSS styles."
+msgstr "Введите пользовательских стилей CSS."
+
+#: library/admin/theme-options.php:386
+#@ cleanretina
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Это CSS будет перезаписывать CSS из style.css файл."
+
+#: library/admin/theme-options.php:394
+#@ cleanretina
+msgid "CSS Tutorial from W3Schools."
+msgstr "Учебник CSS от W3Schools."
+
+#: library/admin/theme-options.php:396
+#@ cleanretina
+msgid "CSS Tutorial"
+msgstr "Учебник CSS"
+
+#: library/admin/theme-options.php:396
+#@ cleanretina
+msgid "Click Here to Read"
+msgstr "Нажмите здесь, чтобы прочитать"
+
+#: library/admin/theme-options.php:411
+#@ cleanretina
+msgid "Home Slogan Options"
+msgstr "Главная Слоган Опции"
+
+#: library/admin/theme-options.php:417
+#@ cleanretina
+msgid "Disable Slogan Part"
+msgstr "Отключение Слоган часть"
+
+#: library/admin/theme-options.php:423
+#@ cleanretina
+msgid "Slogan Position"
+msgstr "Слоган Статус"
+
+#: library/admin/theme-options.php:427
+#@ cleanretina
+msgid "Above Slider"
+msgstr "Над Slider"
+
+#: library/admin/theme-options.php:431
+#@ cleanretina
+msgid "Below Slider"
+msgstr "Ниже Slider"
+
+#: library/admin/theme-options.php:436
+#@ cleanretina
+msgid "Home Page Slogan1"
+msgstr "Главная страница Слоган 1"
+
+#: library/admin/theme-options.php:437
+#: library/admin/theme-options.php:445
+#@ cleanretina
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "Соответствующий длина лозунгом составляет около 10 слов."
+
+#: library/admin/theme-options.php:444
+#@ cleanretina
+msgid "Home Page Slogan2"
+msgstr "Главная страница Slogan2"
+
+#: library/admin/theme-options.php:463
+#@ cleanretina
+msgid "Corporate Content Title"
+msgstr "Корпоративный Содержимое Название"
+
+#: library/admin/theme-options.php:469
+#@ cleanretina
+msgid "Featured Box #"
+msgstr "Функция Box #"
+
+#: library/admin/theme-options.php:472
+#: library/admin/theme-options.php:475
+#@ cleanretina
+msgid "Upload Icon Image"
+msgstr "Добавить изображение значка"
+
+#: library/admin/theme-options.php:479
+#@ cleanretina
+msgid "Redirect Link"
+msgstr "Перенаправление Link"
+
+#: library/admin/theme-options.php:485
+#@ cleanretina
+msgid "Title"
+msgstr "Название"
+
+#: library/admin/theme-options.php:491
+#@ cleanretina
+msgid "Description"
+msgstr "Описание"
+
+#: library/admin/theme-options.php:504
+#@ cleanretina
+msgid "Corporate Page Template Options"
+msgstr "Корпоративный Параметры страницы шаблона"
+
+#: library/admin/theme-options.php:510
+#@ cleanretina
+msgid "About:"
+msgstr "О:"
+
+#: library/admin/theme-options.php:518
+#@ cleanretina
+msgid "Page # "
+msgstr "Страница # "
+
+#: library/admin/theme-options.php:531
+#@ cleanretina
+msgid "Excerpt Options"
+msgstr "Отрывок Опции"
+
+#: library/admin/theme-options.php:535
+#@ cleanretina
+msgid "Excerpt Length"
+msgstr "Отрывок Длина"
+
+#: library/admin/theme-options.php:536
+#@ cleanretina
+msgid "word(s). Default value for excerpt length is 30 words."
+msgstr "word(s). Default value for excerpt length is 30 words."
+
+#: library/admin/theme-options.php:544
+#@ cleanretina
+msgid "Feed Redirect"
+msgstr "Поток перенаправить"
+
+#: library/admin/theme-options.php:550
+#@ cleanretina
+msgid "Feed Redirect URL"
+msgstr "Поток URL переадресации"
+
+#: library/admin/theme-options.php:562
+#@ cleanretina
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Главная / Главная Категория Настройка"
+
+#: library/admin/theme-options.php:568
+#@ cleanretina
+msgid "Front page posts categories:"
+msgstr "Передние сообщений страница категории:"
+
+#: library/admin/theme-options.php:575
+#@ cleanretina
+msgid "--Disabled--"
+msgstr "- Инвалидов -"
+
+#: library/admin/theme-options.php:585
+#@ cleanretina
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Вы можете выбрать несколько категорий, удерживая нажатой клавишу CTRL."
+
+#: library/admin/theme-options.php:600
+#@ cleanretina
+msgid "Slider Options"
+msgstr "Слайдер Опции"
+
+#: library/admin/theme-options.php:604
+#@ cleanretina
+msgid "Disable Slider"
+msgstr "Отключение слайдер"
+
+#: library/admin/theme-options.php:609
+#@ cleanretina
+msgid "Number of Slides"
+msgstr "Количество слайдов"
+
+#: library/admin/theme-options.php:614
+#@ cleanretina
+msgid "Transition Effect:"
+msgstr "Эффект перехода:"
+
+#: library/admin/theme-options.php:634
+#: library/admin/theme-options.php:725
+#, php-format
+#@ cleanretina
+msgid "%s"
+msgstr "%s"
+
+#: library/admin/theme-options.php:642
+#@ cleanretina
+msgid "Transition Delay"
+msgstr "Переход задержки"
+
+#: library/admin/theme-options.php:645
+#: library/admin/theme-options.php:652
+#@ cleanretina
+msgid "second(s)"
+msgstr "second(s)"
+
+#: library/admin/theme-options.php:649
+#@ cleanretina
+msgid "Transition Length"
+msgstr "Переход Длина"
+
+#: library/admin/theme-options.php:661
+#@ cleanretina
+msgid "Featured Post/Page Slider Options"
+msgstr "Популярные сообщение / Параметры страницы Slider"
+
+#: library/admin/theme-options.php:667
+#@ cleanretina
+msgid "Check to exclude"
+msgstr "Проверьте, чтобы исключить"
+
+#: library/admin/theme-options.php:672
+#@ cleanretina
+msgid "Featured Slider Post/Page #"
+msgstr "Показанный слайдер Сообщение / Страница #"
+
+#: library/admin/theme-options.php:674
+#@ default
+#@ cleanretina
+msgid "Click Here To Edit"
+msgstr "Нажмите здесь, чтобы редактировать"
+
+#: library/admin/theme-options.php:693
+#: library/structure/header-extensions.php:296
+#@ cleanretina
+msgid "Facebook"
+msgstr "Facebook"
+
+#: library/admin/theme-options.php:694
+#: library/structure/header-extensions.php:297
+#@ cleanretina
+msgid "Twitter"
+msgstr "Щебетать"
+
+#: library/admin/theme-options.php:695
+#: library/structure/header-extensions.php:298
+#@ cleanretina
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: library/admin/theme-options.php:696
+#: library/structure/header-extensions.php:299
+#@ cleanretina
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: library/admin/theme-options.php:697
+#: library/structure/header-extensions.php:300
+#@ cleanretina
+msgid "Youtube"
+msgstr "Youtube"
+
+#: library/admin/theme-options.php:698
+#: library/structure/header-extensions.php:301
+#@ cleanretina
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: library/admin/theme-options.php:699
+#: library/structure/header-extensions.php:302
+#@ cleanretina
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: library/admin/theme-options.php:700
+#: library/structure/header-extensions.php:303
+#@ cleanretina
+msgid "Flickr"
+msgstr "Flickr"
+
+#: library/admin/theme-options.php:701
+#: library/structure/header-extensions.php:304
+#@ cleanretina
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: library/admin/theme-options.php:702
+#: library/structure/header-extensions.php:305
+#@ cleanretina
+msgid "Myspace"
+msgstr "MySpace"
+
+#: library/admin/theme-options.php:703
+#: library/structure/header-extensions.php:306
+#@ cleanretina
+msgid "RSS"
+msgstr "RSS"
+
+#: library/admin/theme-options.php:743
+#@ cleanretina
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: library/admin/theme-options.php:748
+#@ cleanretina
+msgid "Code to display on Header"
+msgstr "Код для отображения на заголовке"
+
+#: library/admin/theme-options.php:754
+#@ cleanretina
+msgid "Note: Enter your custom header script."
+msgstr "Примечание: Введите ваш сценарий пользовательский заголовок."
+
+#: library/admin/theme-options.php:757
+#@ cleanretina
+msgid "Code to display on Footer"
+msgstr "Код для отображения на конец страницы"
+
+#: library/admin/theme-options.php:764
+#@ cleanretina
+msgid "Note: Enter your custom footer script."
+msgstr "Примечание: Введите ваш сценарий пользовательские подвал."
+
+#: library/functions/functions.php:334
+#@ cleanretina
+msgid "By"
+msgstr "По"
+
+#: library/functions/functions.php:340
+#@ cleanretina
+msgid "No Comments"
+msgstr "Комментариев нет"
+
+#: library/functions/functions.php:340
+#@ cleanretina
+msgid "1 Comment"
+msgstr "1 комментарий"
+
+#: library/functions/functions.php:340
+#@ cleanretina
+msgid "% Comments"
+msgstr "% Комментарии"
+
+#: library/functions/functions.php:340
+#@ cleanretina
+msgid "Comments Off"
+msgstr "Комментариев нет"
+
+#: library/functions/functions.php:358
+#: library/functions/functions.php:364
+#@ cleanretina
+msgid "Permalink to "
+msgstr "Постоянная ссылка на "
+
+#: library/functions/functions.php:383
+#@ cleanretina
+msgid "Read more"
+msgstr "Подробнее"
+
+#: library/functions/functions.php:390
+#@ cleanretina
+msgid ", "
+msgstr ", "
+
+#: library/functions/functions.php:396
+#@ cleanretina
+msgid "Tagged on: "
+msgstr "Меткой на: "
+
+#: library/functions/functions.php:404
+#@ cleanretina
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: library/functions/functions.php:439
+#@ cleanretina
+msgid "No Posts Found."
+msgstr "Сообщения не найдены."
+
+#: library/functions/functions.php:440
+#@ cleanretina
+msgid "Try a new search."
+msgstr "Попробуйте новый поиск."
+
+#: library/functions/functions.php:462
+#@ cleanretina
+msgid "&laquo; Previous"
+msgstr "&laquo; Предыдущая"
+
+#: library/functions/functions.php:463
+#@ cleanretina
+msgid "Next &raquo;"
+msgstr "Следующая &raquo;"
+
+#: library/functions/functions.php:480
+#@ cleanretina
+msgid "&larr; Previous"
+msgstr "&larr; Предыдущая"
+
+#: library/functions/functions.php:481
+#@ cleanretina
+msgid "Next &rarr;"
+msgstr "Следующая &rarr;"
+
+#: library/functions/functions.php:683
+#@ cleanretina
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: library/functions/functions.php:683
+#@ cleanretina
+msgid "(Edit)"
+msgstr "((Изменить))"
+
+#: library/functions/functions.php:698
+#@ cleanretina
+msgid "Post author"
+msgstr "Сообщение автор"
+
+#. translators: 1: date, 2: time
+#: library/functions/functions.php:704
+#, php-format
+#@ cleanretina
+msgid "%1$s at %2$s"
+msgstr "%1$s at %2$s"
+
+#: library/functions/functions.php:710
+#@ cleanretina
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: library/functions/functions.php:715
+#@ cleanretina
+msgid "Edit"
+msgstr "Редактировать"
+
+#: library/functions/functions.php:719
+#@ cleanretina
+msgid "Reply <span>&darr;</span>"
+msgstr "Ответить <span>&darr;</span>"
+
+#: library/functions/functions.php:738
+#@ cleanretina
+msgid "Error 404-Page NOT Found"
+msgstr "Ошибка 404-страница не найдена"
+
+#: library/functions/functions.php:742
+#@ cleanretina
+msgid "This might be because:"
+msgstr "Это может быть, потому что:"
+
+#: library/functions/functions.php:744
+#@ cleanretina
+msgid "Please try the following instead:"
+msgstr "Пожалуйста, попробуйте следующее вместо:"
+
+#: library/functions/functions.php:786
+#: library/functions/functions.php:800
+#@ cleanretina
+msgid "Navigation"
+msgstr "Навигация"
+
+#: library/shortcodes/cleanretina-shortcodes.php:52
+#@ cleanretina
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/structure/archive-gallery-extensions.php:36
+#@ cleanretina
+msgid "No Posts for this Custom Post Type"
+msgstr "Нет сообщений для этого пользовательский тип записи"
+
+#: library/structure/footer-extensions.php:62
+#@ cleanretina
+msgid "Copyright &copy;"
+msgstr "Copyright ©"
+
+#: library/structure/footer-extensions.php:62
+#@ cleanretina
+msgid "Theme by:"
+msgstr "Тема по:"
+
+#: library/structure/footer-extensions.php:62
+#@ cleanretina
+msgid "Powered by:"
+msgstr "Создано:"
+
+#: library/structure/footer-extensions.php:92
+#@ cleanretina
+msgid "Back to Top"
+msgstr "Вернуться к началу"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+#@ cleanretina
+msgid "Page %s"
+msgstr "Страница% с"
+
+#: library/structure/header-extensions.php:325
+#, php-format
+#@ cleanretina
+msgid "%1$s on %2$s"
+msgstr "%1$s on %2$s"
+
+#: library/structure/header-extensions.php:417
+#@ cleanretina
+msgid "Continue Reading"
+msgstr "Продолжить чтение"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+#@ cleanretina
+msgid "Search"
+msgstr "Поиск"
+
+#: library/widgets/cleanretina_widgets.php:17
+#@ cleanretina
+msgid "Side Sidebar"
+msgstr "Сторона Sidebar"
+
+#: library/widgets/cleanretina_widgets.php:19
+#@ cleanretina
+msgid "Shows widgets at side."
+msgstr "Показывает виджеты на стороне."
+
+#: library/widgets/cleanretina_widgets.php:28
+#@ cleanretina
+msgid "Footer Sidebar"
+msgstr "Footer Sidebar"
+
+#: library/widgets/cleanretina_widgets.php:30
+#@ cleanretina
+msgid "Shows widgets at footer."
+msgstr "Показывает виджеты на сноске."
+
+#: library/widgets/cleanretina_widgets.php:53
+#@ cleanretina
+msgid "Displays Custom Tag Cloud"
+msgstr "Отображает Пользовательские облако тегов"
+
+#: library/widgets/cleanretina_widgets.php:55
+#@ cleanretina
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Стиль Лошадь: Пользовательский Облако тегов"
+
+#: library/widgets/cleanretina_widgets.php:107
+#@ cleanretina
+msgid "Title:"
+msgstr "Название:"
+
+#: library/admin/cleanretina-custom-post-types.php:19
+#: library/admin/cleanretina-custom-post-types.php:20
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "Gallery"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:21
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "All Galleries"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:22
+#: library/admin/cleanretina-custom-post-types.php:23
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "Add New"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:24
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "Edit Gallery"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:25
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "New Gallery"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:26
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "View Gallery"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:27
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "search Gallery"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:28
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "No Gallery Found"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:29
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:30
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "Parent Gallery:"
+msgstr ""
+
+#: library/admin/cleanretina-custom-post-types.php:31
+#@ cleanretina
+msgctxt "cleanretina_custom_post"
+msgid "Galleries"
+msgstr ""
+
+#: library/admin/cleanretina-metaboxes.php:19
+#@ cleanretina
+msgid "Select layout for this specific Page only ( Note: This setting only reflects if page Template is set as Default Template.)"
+msgstr "Выберите макет для этой конкретной страницы только (Примечание:. Эта установка только отражает, если страница Шаблон устанавливается шаблоном по умолчанию)"
+
+#: library/admin/theme-options.php:125
+#@ cleanretina
+msgid "http://themehorse.com/"
+msgstr ""
+
+#: library/admin/theme-options.php:127
+#@ cleanretina
+msgid "Confused about something? See"
+msgstr ""
+
+#: library/admin/theme-options.php:133
+#@ cleanretina
+msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+msgstr ""
+
+#: library/admin/theme-options.php:176
+#@ cleanretina
+msgid "Need to replace default header?"
+msgstr ""
+
+#: library/admin/theme-options.php:306
+#@ cleanretina
+msgid "To select one of these layouts, Latest Posts should be checked in Reading sub-menu of Settings menu. <strong>Go to Settings->Reading->Check on 'Your Latest Posts'</strong>"
+msgstr ""
+
+#: library/admin/theme-options.php:307
+#@ cleanretina
+msgid "If you chose the corporate layout then you will have to add corporate layout content from Home Corporate Layout option under Advanced Options Tab."
+msgstr ""
+
+#: library/admin/theme-options.php:365
+#@ cleanretina
+msgid "Need to replace default background?"
+msgstr ""
+
+#: library/admin/theme-options.php:371
+#@ cleanretina
+msgid "Note: The custom background change will be reflected in content part not the header and footer part. If you want to reflect change in the footer and header part as well, please add your custom css from below to hide the header and footer pattern. You will then see the changes in header and footer as well."
+msgstr ""
+
+#: library/admin/theme-options.php:396
+#@ cleanretina
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr ""
+
+#: library/admin/theme-options.php:458
+#@ cleanretina
+msgid "Home's Corporate Type Layout Options"
+msgstr ""
+
+#: library/admin/theme-options.php:513
+#@ cleanretina
+msgid "Settings used on pages that use the \"Corporate Template\" page template. This template must be assigned to a page before its settings take effect."
+msgstr ""
+
+#: library/admin/theme-options.php:570
+#@ cleanretina
+msgid "Only posts that belong to the categories selected here will be displayed on the front page."
+msgstr ""
+
+#: library/admin/theme-options.php:665
+#@ cleanretina
+msgid "Exclude Slider post from Homepage posts?"
+msgstr ""
+
+#: library/admin/theme-options.php:680
+#@ cleanretina
+msgid "<strong>Following are the steps on how to use the featured slider.</strong><br />* Create Post, Add featured image to the Post.<br />* Add all the Post ID that you want to use in the featured slider. <br /> &nbsp;(You can now see the Posts' respective ID in the All Posts' table in last column.)<br />* Featured Slider will show featured images, Title and excerpt of the respected added post's IDs."
+msgstr ""
+
+#: library/admin/theme-options.php:681
+#@ cleanretina
+msgid "<strong>Note:</strong> You can now add Pages ID too. (You can now see the Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+
+#: library/functions/functions.php:488
+#@ cleanretina
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: library/functions/functions.php:489
+#@ cleanretina
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: library/functions/functions.php:741
+#@ cleanretina
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: library/functions/functions.php:743
+#@ cleanretina
+msgid "You have typed the web address incorrectly, or the page you were looking for may have been moved, updated or deleted."
+msgstr ""
+
+#: library/functions/functions.php:745
+#@ cleanretina
+msgid "Check for a mis-typed URL error, then press the refresh button on your browser."
+msgstr ""
+

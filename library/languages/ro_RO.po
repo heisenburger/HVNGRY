@@ -1,0 +1,873 @@
+# Clean Retina WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Clean Retina Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Retina\n"
+"POT-Creation-Date: 2013-03-13 16:25+0545\n"
+"PO-Revision-Date: 2013-03-13 16:28+0545\n"
+"Last-Translator: \n"
+"Language-Team: Team Horse <support@themehorse.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Un comentariu la &ldquo;%2$s&rdquo;"
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s comentarii la &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Navigare comentarii"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "Comentarii mai vechi"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Comentarii mai noi"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Comentariile sunt inchise."
+
+#: functions.php:131
+msgid "Primary Menu"
+msgstr "Meniu principal"
+
+#: library/admin/cleanretina-custom-post-types.php:19
+#: library/admin/cleanretina-custom-post-types.php:20
+msgid "Gallery"
+msgstr "Galerie"
+
+#: library/admin/cleanretina-custom-post-types.php:21
+msgid "All Galleries"
+msgstr "Toate galeriile"
+
+#: library/admin/cleanretina-custom-post-types.php:22
+#: library/admin/cleanretina-custom-post-types.php:23
+msgid "Add New"
+msgstr "Adaugare"
+
+#: library/admin/cleanretina-custom-post-types.php:24
+msgid "Edit Gallery"
+msgstr "Modificare galerie"
+
+#: library/admin/cleanretina-custom-post-types.php:25
+msgid "New Gallery"
+msgstr "Galerie noua"
+
+#: library/admin/cleanretina-custom-post-types.php:26
+msgid "View Gallery"
+msgstr "Vizualizare galerie"
+
+#: library/admin/cleanretina-custom-post-types.php:27
+msgid "search Gallery"
+msgstr "Cautare galerie"
+
+#: library/admin/cleanretina-custom-post-types.php:28
+msgid "No Gallery Found"
+msgstr "Nici o galerie nu a fost gasita"
+
+#: library/admin/cleanretina-custom-post-types.php:29
+msgid "No Gallery found in Trash"
+msgstr "Nici o galerie nu a fost gasita printre cele sterse"
+
+#: library/admin/cleanretina-custom-post-types.php:30
+msgid "Parent Gallery:"
+msgstr "Galerie parinte"
+
+#: library/admin/cleanretina-custom-post-types.php:31
+msgid "Galleries"
+msgstr "Galerii"
+
+#: library/admin/cleanretina-custom-post-types.php:36
+msgid "Custom Gallery Posts"
+msgstr "Postari in galeria personalizata"
+
+#: library/admin/cleanretina-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template.)"
+msgstr ""
+"Selectati aspectul numai pentru aceasta pagina (Observatie: Aceasta "
+"configuratie este luata in considerare doar daca modelul paginii este "
+"modelul predefinit)."
+
+#: library/admin/cleanretina-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Selectati aspectul numai pentru aceasta postare."
+
+#: library/admin/cleanretina-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Modelul predefinit in"
+
+#: library/admin/cleanretina-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "Configurarea temei"
+
+#: library/admin/cleanretina-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Fara bara laterala"
+
+#: library/admin/cleanretina-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Fara bara laterala, latime integrala"
+
+#: library/admin/cleanretina-metaboxes.php:56
+#: library/admin/theme-options.php:234 library/admin/theme-options.php:281
+msgid "No Sidebar, One Column"
+msgstr "Fara bara laterala, o coloana"
+
+#: library/admin/cleanretina-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "Bara laterala stânga"
+
+#: library/admin/cleanretina-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "Bara laterala dreapta"
+
+#: library/admin/theme-options.php:66 library/admin/theme-options.php:67
+msgid "Theme Options"
+msgstr "Optiunile temei"
+
+#: library/admin/theme-options.php:96
+msgid "Theme Options by"
+msgstr "Optiunile temei de"
+
+#: library/admin/theme-options.php:96
+msgid "http://themehorse.com/"
+msgstr "http://themehorse.com/"
+
+#: library/admin/theme-options.php:96
+#: library/shortcodes/cleanretina-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/admin/theme-options.php:97
+msgid "Confused about something? See"
+msgstr "Aveti neclaritati? Consultati"
+
+#: library/admin/theme-options.php:97
+msgid "Clean Retina Theme Instructions"
+msgstr "Instructiuni pentru tema Clean Retina"
+
+#: library/admin/theme-options.php:97
+msgid "Theme Instructions"
+msgstr "Instructiunile temei"
+
+#: library/admin/theme-options.php:100
+msgid "Support theme development"
+msgstr "Contribuiti la dezvoltarea temei"
+
+#: library/admin/theme-options.php:101
+msgid "Donate"
+msgstr "Donati"
+
+#: library/admin/theme-options.php:101
+msgid "OR Review our theme"
+msgstr "SAU Spuneti-va parerea despre tema noastra"
+
+#: library/admin/theme-options.php:102
+msgid "Review Clean Retina"
+msgstr "Spuneti-va parerea despre Clean Retina"
+
+#: library/admin/theme-options.php:102
+msgid "at WordPress.org"
+msgstr "la Wordpress.org"
+
+#: library/admin/theme-options.php:115
+msgid "Settings saved."
+msgstr "Configuratia a fost salvata."
+
+#: library/admin/theme-options.php:121
+msgid "Design Options"
+msgstr "Optiuni de design"
+
+#: library/admin/theme-options.php:122
+msgid "Advance Options"
+msgstr "Optiuni avansate"
+
+#: library/admin/theme-options.php:123
+msgid "Featured Post/Page Slider"
+msgstr "Slider posturi/ pagini importante"
+
+#: library/admin/theme-options.php:124
+msgid "Social Links"
+msgstr "Link-uri catre retele sociale"
+
+#: library/admin/theme-options.php:125
+msgid "Webmaster Tools"
+msgstr "Instrumente webmaster"
+
+#: library/admin/theme-options.php:131
+msgid "Custom Header"
+msgstr "Antet personalizat"
+
+#: library/admin/theme-options.php:137
+msgid "Need to replace default header?"
+msgstr "Doriti sa inlocuiti antetul predefinit?"
+
+#: library/admin/theme-options.php:140 library/admin/theme-options.php:329
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Click aici</a>"
+
+#: library/admin/theme-options.php:144
+msgid "Hide Searchform from Header"
+msgstr "Mascati formularul de cautare din antet"
+
+#: library/admin/theme-options.php:146
+msgid "Check to hide"
+msgstr "Bifati pentru a masca"
+
+#: library/admin/theme-options.php:150 library/admin/theme-options.php:181
+#: library/admin/theme-options.php:212 library/admin/theme-options.php:256
+#: library/admin/theme-options.php:315 library/admin/theme-options.php:362
+#: library/admin/theme-options.php:414 library/admin/theme-options.php:460
+#: library/admin/theme-options.php:487 library/admin/theme-options.php:500
+#: library/admin/theme-options.php:518 library/admin/theme-options.php:551
+#: library/admin/theme-options.php:617 library/admin/theme-options.php:643
+#: library/admin/theme-options.php:681 library/admin/theme-options.php:712
+#: library/admin/theme-options.php:742
+msgid "Save All Changes"
+msgstr "Salvati toate modificarile"
+
+#: library/admin/theme-options.php:155
+msgid "Fav Icon Options"
+msgstr "Optiuni pentru favicon"
+
+#: library/admin/theme-options.php:160
+msgid "Disable Favicon"
+msgstr "Dezactivare favicon"
+
+#: library/admin/theme-options.php:162 library/admin/theme-options.php:193
+#: library/admin/theme-options.php:381 library/admin/theme-options.php:567
+msgid "Check to disable"
+msgstr "Bifati pentru a dezactiva"
+
+#: library/admin/theme-options.php:165
+msgid "Fav Icon URL"
+msgstr "URL favicon"
+
+#: library/admin/theme-options.php:168
+msgid "Change Fav Icon"
+msgstr "Modificati favicon-ul"
+
+#: library/admin/theme-options.php:172 library/admin/theme-options.php:203
+msgid "Preview"
+msgstr "Previzualizare"
+
+#: library/admin/theme-options.php:175
+msgid "favicon"
+msgstr "favicon"
+
+#: library/admin/theme-options.php:186
+msgid "Web Clip Icon Options"
+msgstr "Optiuni imagine Web Clip"
+
+#: library/admin/theme-options.php:191
+msgid "Disable Web Clip Icon"
+msgstr "Dezactivare Web Clip"
+
+#: library/admin/theme-options.php:196
+msgid "Web Clip Icon URL"
+msgstr "URL imagine Web Clip"
+
+#: library/admin/theme-options.php:199
+msgid "Change Web Clip Icon"
+msgstr "Modificare imagine Web Clip"
+
+#: library/admin/theme-options.php:206
+msgid "webpage icon"
+msgstr "Icon pagina web"
+
+#: library/admin/theme-options.php:217
+msgid "Default Layout Options"
+msgstr "Optiuni Model asezare in pagina predefinit"
+
+#: library/admin/theme-options.php:222
+msgid "Default Layout"
+msgstr "Model asezare in pagina predefinit"
+
+#: library/admin/theme-options.php:226 library/admin/theme-options.php:273
+msgid "No Sidebar"
+msgstr "Fara bara laterala"
+
+#: library/admin/theme-options.php:230 library/admin/theme-options.php:277
+msgid "No Sidebar, Full Width"
+msgstr "Fara bara laterala, latime integrala"
+
+#: library/admin/theme-options.php:238 library/admin/theme-options.php:285
+msgid "Left Sidebar"
+msgstr "Bara laterala stânga"
+
+#: library/admin/theme-options.php:242 library/admin/theme-options.php:289
+msgid "Right Sidebar"
+msgstr "Bara laterala dreapta"
+
+#: library/admin/theme-options.php:248
+msgid "Reset Layout"
+msgstr "Reinitializare asezare in pagina"
+
+#: library/admin/theme-options.php:251
+msgid "Check to reset"
+msgstr "Bifati pentru a reinitializa"
+
+#: library/admin/theme-options.php:261
+msgid "Home Page Layout Options"
+msgstr "Optiuni pentru aspectul primei pagini"
+
+#: library/admin/theme-options.php:266
+msgid "Home Page Layout"
+msgstr "Aspectul primei pagini"
+
+#: library/admin/theme-options.php:267
+msgid ""
+"To select one of these layouts, Latest Posts should be checked in Reading "
+"sub-menu of Settings menu. <strong>Go to Settings->Reading->Check on 'Your "
+"Latest Posts'</strong>"
+msgstr ""
+"Pentru a selectiona unul dintre modele, trebuie sa bifati \"Ultimele postari"
+"\" in submeniul \"Lectura\" al meniului \"Configurare\". <strong>Mergeti la "
+"Configurare-> Lectura-> Bifati \"Ultimele postari\"</strong>"
+
+#: library/admin/theme-options.php:268
+msgid ""
+"If you chose the corporate layout then you will have to add corporate layout "
+"content from Home Corporate Layout option under Advanced Options Tab."
+msgstr ""
+"Daca selectionati modelul \"Firma\", va trebui sa adaugati continut specific "
+"acestuia, la \"Optiuni pentru prima pagina model Firma\" din sectiunea "
+"Optiuni avansate"
+
+#: library/admin/theme-options.php:293
+msgid "Corporate Layout"
+msgstr "Model Firma"
+
+#: library/admin/theme-options.php:298
+msgid "Blog Display Type on Home Page"
+msgstr "Tipuri de afisare a blogului pe prima pagina"
+
+#: library/admin/theme-options.php:302
+msgid "Excerpt Display Type 1"
+msgstr "Extract tip 1"
+
+#: library/admin/theme-options.php:306
+msgid "Excerpt Display Type 2"
+msgstr "Extract tip 2"
+
+#: library/admin/theme-options.php:310
+msgid "Full Content Display"
+msgstr "Continut integral"
+
+#: library/admin/theme-options.php:320
+msgid "Custom Background"
+msgstr "Fundal personalizat"
+
+#: library/admin/theme-options.php:326
+msgid "Need to replace default background?"
+msgstr "Doriti modificarea fundalului predefinit?"
+
+#: library/admin/theme-options.php:332
+msgid ""
+"Note: The custom background change will be reflected in content part not the "
+"header and footer part. If you want to reflect change in the footer and "
+"header part as well, please add your custom css from below to hide the "
+"header and footer pattern. You will then see the changes in header and "
+"footer as well."
+msgstr ""
+"Observatie: Fundalul personalizat va fi vizibil doar in partea de continut, "
+"nu si in antet si subsol. Daca doriti ca modificarea sa se aplice si "
+"antetului si subsolului, adaugati mai jos CSS-ul Dvs. personalizat, mascand "
+"astfel modelele din aceste doua sectiuni. Dupa aceasta, fundalul Dvs. va fi "
+"vizibil si in antet si subsol."
+
+#: library/admin/theme-options.php:341
+msgid "Custom CSS"
+msgstr "CSS personalizat"
+
+#: library/admin/theme-options.php:346
+msgid "Enter your custom CSS styles."
+msgstr "Introduceti stilurile Dvs. CSS personalizate."
+
+#: library/admin/theme-options.php:347
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Acest CSS va suprascrie CSS-ul din fisierul style.css"
+
+#: library/admin/theme-options.php:355
+msgid "CSS Tutorial from W3Schools."
+msgstr "Tutorial CSS de la W3Schools."
+
+#: library/admin/theme-options.php:357
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: library/admin/theme-options.php:357
+msgid "CSS Tutorial"
+msgstr "Tutorial CSS"
+
+#: library/admin/theme-options.php:357
+msgid "Click Here to Read"
+msgstr "Click aici pentru a citi"
+
+#: library/admin/theme-options.php:372
+msgid "Home Slogan Options"
+msgstr "Optiuni pentru sloganul de pe prima pagina"
+
+#: library/admin/theme-options.php:378
+msgid "Disable Slogan Part"
+msgstr "Deazctivati partea de slogan"
+
+#: library/admin/theme-options.php:384
+msgid "Slogan Position"
+msgstr "Pozitia sloganului"
+
+#: library/admin/theme-options.php:388
+msgid "Above Slider"
+msgstr "Deasupra slider-ului"
+
+#: library/admin/theme-options.php:392
+msgid "Below Slider"
+msgstr "Sub slider"
+
+#: library/admin/theme-options.php:397
+msgid "Home Page Slogan1"
+msgstr "Slogan 1"
+
+#: library/admin/theme-options.php:398 library/admin/theme-options.php:406
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "Lungimea recomandata pentru slogan este de aproximativ 10 cuvinte."
+
+#: library/admin/theme-options.php:405
+msgid "Home Page Slogan2"
+msgstr "Slogan 2"
+
+#: library/admin/theme-options.php:419
+msgid "Home's Corporate Type Layout Options"
+msgstr "Optiuni pentru prima pagina model Firma"
+
+#: library/admin/theme-options.php:424
+msgid "Corporate Content Title"
+msgstr "Titlul continutului tip Firma"
+
+#: library/admin/theme-options.php:430
+msgid "Featured Box #"
+msgstr "Caseta "
+
+#: library/admin/theme-options.php:433 library/admin/theme-options.php:436
+msgid "Upload Icon Image"
+msgstr "Incarcati imagine/ icon"
+
+#: library/admin/theme-options.php:440
+msgid "Redirect Link"
+msgstr "Link de redirectionare"
+
+#: library/admin/theme-options.php:446
+msgid "Title"
+msgstr "Titlu"
+
+#: library/admin/theme-options.php:452
+msgid "Description"
+msgstr "Descriere"
+
+#: library/admin/theme-options.php:465
+msgid "Corporate Page Template Options"
+msgstr "Optiuni pentru pagina model Firma"
+
+#: library/admin/theme-options.php:471
+msgid "About:"
+msgstr "Despre:"
+
+#: library/admin/theme-options.php:474
+msgid ""
+"Settings used on pages that use the \"Corporate Template\" page template. "
+"This template must be assigned to a page before its settings take effect."
+msgstr ""
+"Configurare pentru paginile care utilizeaza modelul Firma. Acest model "
+"trebuie atribuit intâi unei pagini pentru ca parametrii sai sa devina activi."
+
+#: library/admin/theme-options.php:479
+msgid "Page # "
+msgstr "Pagina "
+
+#: library/admin/theme-options.php:492
+msgid "Excerpt Options"
+msgstr "Optiuni extras"
+
+#: library/admin/theme-options.php:496
+msgid "Excerpt Length"
+msgstr "Lungime extras"
+
+#: library/admin/theme-options.php:497
+msgid "word(s). Default value for excerpt length is 30 words."
+msgstr "cuvinte. Lungimea predefinita a extrasului este de 30 cuvinte."
+
+#: library/admin/theme-options.php:505
+msgid "Feed Redirect"
+msgstr "Redirectionare Feed"
+
+#: library/admin/theme-options.php:511
+msgid "Feed Redirect URL"
+msgstr "URL de redirectionare Feed"
+
+#: library/admin/theme-options.php:523
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Configurare categorii pe prima pagina"
+
+#: library/admin/theme-options.php:529
+msgid "Front page posts categories:"
+msgstr "Categorii pentru prima pagina:"
+
+#: library/admin/theme-options.php:531
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"Numai postarile din categoriile selectate aici vor fi afisate pe prima "
+"pagina."
+
+#: library/admin/theme-options.php:536
+msgid "--Disabled--"
+msgstr "-- Dezactivat --"
+
+#: library/admin/theme-options.php:546
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr "Puteti selecta mai multe categorii tinand apasata tasta CTRL."
+
+#: library/admin/theme-options.php:561
+msgid "Slider Options"
+msgstr "Optiuni slider"
+
+#: library/admin/theme-options.php:565
+msgid "Disable Slider"
+msgstr "Dezactivare slider"
+
+#: library/admin/theme-options.php:570
+msgid "Number of Slides"
+msgstr "Numar diapozitive"
+
+#: library/admin/theme-options.php:575
+msgid "Transition Effect:"
+msgstr "Efect de tranzitie:"
+
+#: library/admin/theme-options.php:595 library/admin/theme-options.php:672
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: library/admin/theme-options.php:603
+msgid "Transition Delay"
+msgstr "Durata afisare"
+
+#: library/admin/theme-options.php:606 library/admin/theme-options.php:613
+msgid "second(s)"
+msgstr "secunde"
+
+#: library/admin/theme-options.php:610
+msgid "Transition Length"
+msgstr "Durata tranzitie"
+
+#: library/admin/theme-options.php:622
+msgid "Featured Post/Page Slider Options"
+msgstr "Optiuni postari/ pagini afisate in slider"
+
+#: library/admin/theme-options.php:626
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "Excludere slider de pe prima pagina?"
+
+#: library/admin/theme-options.php:628
+msgid "Check to exclude"
+msgstr "Bifati pentru a exclude"
+
+#: library/admin/theme-options.php:633
+msgid "Featured Slider Post/Page #"
+msgstr "ID postare/ pagina "
+
+#: library/admin/theme-options.php:635
+msgid "Click Here To Edit"
+msgstr "Click pentru modificare"
+
+#: library/admin/theme-options.php:641
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last column.)"
+"<br />* Featured Slider will show featured images, Title and excerpt of the "
+"respected added post's IDs."
+msgstr ""
+"<strong>Mai jos sunt pasii de urmat pentru a utiliza slider-ul</strong><br /"
+">* Creati postarea, adaugati-i o imagine reprezentativa.<br />* Adaugati ID-"
+"urile tuturor postarilor pe care le doriti afisate in slider. <br /> &nbsp;"
+"(Acum puteti vedea ID-ul fiecarei postari in ultima coloana a tabelului "
+"'Toate postarile'.)<br />* Slider-ul va afisa imaginea reprezentativa, "
+"titlul si extrasul tuturor postarilor ale caror ID-uri au fost adaugate."
+
+#: library/admin/theme-options.php:642
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+"<strong>Observatie:</strong> Acum puteti adauga si ID-uri de pagini. (ID-ul "
+"fiecarei pagini poate fi vazut acum in ultima coloana a tabelului 'Toate "
+"paginile'.) ."
+
+#: library/admin/theme-options.php:689
+msgid "Site Verification"
+msgstr "Verificare site"
+
+#: library/admin/theme-options.php:694
+msgid "Google Site Verification ID"
+msgstr "ID Google"
+
+#: library/admin/theme-options.php:695
+msgid "Enter your Google ID number only"
+msgstr "Introduceti doar ID-ul Google numeric"
+
+#: library/admin/theme-options.php:700
+msgid "Yahoo Site Verification ID"
+msgstr "ID Yahoo"
+
+#: library/admin/theme-options.php:701
+msgid "Enter your Yahoo ID number only"
+msgstr "Introduceti doar ID-ul Yahoo numeric"
+
+#: library/admin/theme-options.php:706
+msgid "Bing Site Verification ID"
+msgstr "ID Bing"
+
+#: library/admin/theme-options.php:707
+msgid "Enter your Bing ID number only"
+msgstr "Introduceti doar ID-ul Bing numeric"
+
+#: library/admin/theme-options.php:717
+msgid "Analytics"
+msgstr "Statistici"
+
+#: library/admin/theme-options.php:722
+msgid "Code to display on Header"
+msgstr "Cod pentru afisare in antet"
+
+#: library/admin/theme-options.php:728
+msgid "Note: Enter your custom header script."
+msgstr ""
+"Observatie: Introduceti scriptul Dvs. personalizat, pentru afisare in antet"
+
+#: library/admin/theme-options.php:731
+msgid "Code to display on Footer"
+msgstr "Cod pentru afisare in subsol"
+
+#: library/admin/theme-options.php:738
+msgid "Note: Enter your custom footer script."
+msgstr ""
+"Observatie: Introduceti scriptul Dvs. personalizat, pentru afisare in subsol"
+
+#: library/functions/functions.php:330
+msgid "By"
+msgstr "De"
+
+#: library/functions/functions.php:336
+msgid "No Comments"
+msgstr "Nici un comentariu"
+
+#: library/functions/functions.php:336
+msgid "1 Comment"
+msgstr "Un comentariu"
+
+#: library/functions/functions.php:336
+msgid "% Comments"
+msgstr "% comentarii"
+
+#: library/functions/functions.php:336
+msgid "Comments Off"
+msgstr "Comentariile sunt inchise"
+
+#: library/functions/functions.php:354 library/functions/functions.php:360
+msgid "Permalink to "
+msgstr "Permalink catre"
+
+#: library/functions/functions.php:379
+msgid "Read more"
+msgstr "Mai mult"
+
+#: library/functions/functions.php:386
+msgid ", "
+msgstr ","
+
+#: library/functions/functions.php:392
+msgid "Tagged on: "
+msgstr "Etichetat la:"
+
+#: library/functions/functions.php:400
+msgid "Pages:"
+msgstr "Pagini:"
+
+#: library/functions/functions.php:435
+msgid "No Posts Found."
+msgstr "Nici o postare."
+
+#: library/functions/functions.php:436
+msgid "Try a new search."
+msgstr "Incercati o noua cautare."
+
+#: library/functions/functions.php:458
+msgid "&laquo; Previous"
+msgstr "&laquo; Precedent"
+
+#: library/functions/functions.php:459
+msgid "Next &raquo;"
+msgstr "Urmator &raquo;"
+
+#: library/functions/functions.php:475
+msgid "&larr;"
+msgstr "&larr;"
+
+#: library/functions/functions.php:476
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: library/functions/functions.php:683
+msgid "Pingback:"
+msgstr "Intoarcere:"
+
+#: library/functions/functions.php:683
+msgid "(Edit)"
+msgstr "(Modificare)"
+
+#: library/functions/functions.php:698
+msgid "Post author"
+msgstr "Autor postare"
+
+#: library/functions/functions.php:704
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s la %2$s"
+
+#: library/functions/functions.php:710
+msgid "Your comment is awaiting moderation."
+msgstr "Comentariul Dvs. asteapta moderarea."
+
+#: library/functions/functions.php:715
+msgid "Edit"
+msgstr "Modificare"
+
+#: library/functions/functions.php:719
+msgid "Reply <span>&darr;</span>"
+msgstr "Raspunde <span>&darr;</span>"
+
+#: library/functions/functions.php:738
+msgid "Error 404-Page NOT Found"
+msgstr "Eroare 404-Pagina NU a fost gasita"
+
+#: library/functions/functions.php:741
+msgid "It seems we can't find what you're looking for."
+msgstr "Se pare ca nu putem gasi ceea ce cautati."
+
+#: library/functions/functions.php:742
+msgid "This might be because:"
+msgstr "Posibile cauze:"
+
+#: library/functions/functions.php:743
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Ati tastat o eroare in adresa web sau pagina cautata a fost mutata, "
+"actualizata sau suprimata."
+
+#: library/functions/functions.php:744
+msgid "Please try the following instead:"
+msgstr "Puteti incerca urmatoarele:"
+
+#: library/functions/functions.php:745
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Cautati eventuale erori in URL, apoi apasati butonul de actualizare in "
+"browser."
+
+#: library/shortcodes/cleanretina-shortcodes.php:52
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/structure/archive-gallery-extensions.php:36
+msgid "No Posts for this Custom Post Type"
+msgstr "Nici o postare de acest tip personalizat"
+
+#: library/structure/footer-extensions.php:62
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: library/structure/footer-extensions.php:62
+msgid "Theme by:"
+msgstr "Tema de:"
+
+#: library/structure/footer-extensions.php:62
+msgid "Powered by:"
+msgstr "Pe o platforma:"
+
+#: library/structure/footer-extensions.php:92
+msgid "Back to Top"
+msgstr "Inapoi la inceput"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "Pagina %s"
+
+#: library/structure/header-extensions.php:311
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s din %2$s"
+
+#: library/structure/header-extensions.php:402
+msgid "Continue Reading"
+msgstr "Continuare"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "Cautare"
+
+#: library/widgets/cleanretina_widgets.php:17
+msgid "Side Sidebar"
+msgstr "Bara laterala"
+
+#: library/widgets/cleanretina_widgets.php:19
+msgid "Shows widgets at side."
+msgstr "Afiseaza widget-urile in lateral"
+
+#: library/widgets/cleanretina_widgets.php:28
+msgid "Footer Sidebar"
+msgstr "Caseta subsol"
+
+#: library/widgets/cleanretina_widgets.php:30
+msgid "Shows widgets at footer."
+msgstr "Afiseaza widget-urile in subsol"
+
+#: library/widgets/cleanretina_widgets.php:53
+msgid "Displays Custom Tag Cloud"
+msgstr "Afiseaza cloud-ul de taguri personalizat"
+
+#: library/widgets/cleanretina_widgets.php:55
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: cloud de tag-uri personalizat"
+
+#: library/widgets/cleanretina_widgets.php:107
+msgid "Title:"
+msgstr "Titlu:"

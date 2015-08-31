@@ -1,0 +1,919 @@
+# Clean Retina WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Clean Retina Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Clean Retina\n"
+"POT-Creation-Date: 2013-05-06 17:10+0545\n"
+"PO-Revision-Date: 2013-05-06 17:11+0545\n"
+"Last-Translator: Edgar Méndez <mdzredgar@gmail.com>\n"
+"Language-Team: Edgar Méndez <snake.fast@gmail.com>\n"
+"Language: Spanish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;_x;_n\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr "Un pensamiento en &ldquo;%2$s&rdquo;"
+
+#: comments.php:35
+#, php-format
+msgid "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr "%1$s pensamientos en &ldquo;%2$s&rdquo;"
+
+#: comments.php:46
+msgid "Comment navigation"
+msgstr "Navegaci&oacute;n de comentarios"
+
+#: comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios Antiguos"
+
+#: comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios Recientes &rarr;"
+
+#: comments.php:55
+msgid "Comments are closed."
+msgstr "Los comentarios est&aacute;n cerrados."
+
+#: functions.php:131
+msgid "Primary Menu"
+msgstr "Men&uacute; Principal"
+
+#: library/admin/cleanretina-custom-post-types.php:19
+#: library/admin/cleanretina-custom-post-types.php:20
+msgid "Gallery"
+msgstr "Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:21
+msgid "All Galleries"
+msgstr "Todas las galer&iacute;as"
+
+#: library/admin/cleanretina-custom-post-types.php:22
+#: library/admin/cleanretina-custom-post-types.php:23
+msgid "Add New"
+msgstr "A&ntilde;adir nuevo"
+
+#: library/admin/cleanretina-custom-post-types.php:24
+msgid "Edit Gallery"
+msgstr "Editar Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:25
+msgid "New Gallery"
+msgstr "Nueva Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:26
+msgid "View Gallery"
+msgstr "Ver Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:27
+msgid "search Gallery"
+msgstr "buscar Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:28
+msgid "No Gallery Found"
+msgstr "No se encontr&oacute; la Galer&iacute;a"
+
+#: library/admin/cleanretina-custom-post-types.php:29
+msgid "No Gallery found in Trash"
+msgstr "No se encontr&oacute; la Galer&iacute;a en la Papelera"
+
+#: library/admin/cleanretina-custom-post-types.php:30
+msgid "Parent Gallery:"
+msgstr "Galer&iacute;a Padre:"
+
+#: library/admin/cleanretina-custom-post-types.php:31
+msgid "Galleries"
+msgstr "Galer&iacute;as"
+
+#: library/admin/cleanretina-custom-post-types.php:36
+msgid "Custom Gallery Posts"
+msgstr "Entradas con galer&iacute;as personalizadas"
+
+#: library/admin/cleanretina-metaboxes.php:19
+msgid ""
+"Select layout for this specific Page only ( Note: This setting only reflects "
+"if page Template is set as Default Template.)"
+msgstr ""
+"Selecciona un dise&ntilde;o s&oacute;lo para esta p&aacute;gina en concreto "
+"( Nota: Esta opci&oacute;n s&oacute;lo se ver&aacute; si la plantilla de la "
+"p&aacute;gina est&aacute; ajustada como la Plantilla predeterminada.)"
+
+#: library/admin/cleanretina-metaboxes.php:25
+msgid "Select layout for this specific Post only"
+msgstr "Selecciona un dise&ntilde;o s&oacute;lo para esta entrada en concreto"
+
+#: library/admin/cleanretina-metaboxes.php:38
+msgid "Default Layout Set in"
+msgstr "Diseño predeterminado establecido en"
+
+#: library/admin/cleanretina-metaboxes.php:38
+msgid "Theme Settings"
+msgstr "Configuraci&oacute;n del tema"
+
+#: library/admin/cleanretina-metaboxes.php:44
+msgid "No sidebar"
+msgstr "Sin Sidebar"
+
+#: library/admin/cleanretina-metaboxes.php:50
+msgid "No sidebar, Full Width"
+msgstr "Sin sidebar, Anchura total"
+
+#: library/admin/cleanretina-metaboxes.php:56
+#: library/admin/theme-options.php:273 library/admin/theme-options.php:320
+msgid "No Sidebar, One Column"
+msgstr "Sin Sidebar, Una columna"
+
+#: library/admin/cleanretina-metaboxes.php:62
+msgid "Left sidebar"
+msgstr "Sidebar izquierda"
+
+#: library/admin/cleanretina-metaboxes.php:68
+msgid "Right sidebar"
+msgstr "Sidebar derecho"
+
+#: library/admin/theme-options.php:95 library/admin/theme-options.php:96
+msgid "Theme Options"
+msgstr "Opciones del tema"
+
+#: library/admin/theme-options.php:125
+msgid "Theme Options by"
+msgstr "Opciones del tema por"
+
+#: library/admin/theme-options.php:125
+msgid "http://themehorse.com/"
+msgstr "http://themehorse.com/"
+
+#: library/admin/theme-options.php:125
+#: library/shortcodes/cleanretina-shortcodes.php:61
+msgid "Theme Horse"
+msgstr "Theme Horse"
+
+#: library/admin/theme-options.php:127
+msgid "Confused about something? See"
+msgstr "&iquest;Confundido con algo? Mirá"
+
+#: library/admin/theme-options.php:128
+msgid "Clean Retina Theme Instructions"
+msgstr "Instrucciones del Tema Clean Retina"
+
+#: library/admin/theme-options.php:128
+msgid "Theme Instructions"
+msgstr "Instrucciones del Tema"
+
+#: library/admin/theme-options.php:129
+msgid "Support Forum"
+msgstr ""
+
+#: library/admin/theme-options.php:130
+#, fuzzy
+msgid "Clean Retina Demo"
+msgstr "Instrucciones del Tema Clean Retina"
+
+#: library/admin/theme-options.php:130
+msgid "View Demo"
+msgstr ""
+
+#: library/admin/theme-options.php:133
+msgid "Want to add bunch of additional features? Upgrade to Pro version!"
+msgstr ""
+
+#: library/admin/theme-options.php:134
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: library/admin/theme-options.php:135
+msgid "Donate"
+msgstr "Donar"
+
+#: library/admin/theme-options.php:136
+msgid "Review Clean Retina"
+msgstr "Evaluar Clean Retina"
+
+#: library/admin/theme-options.php:136
+#, fuzzy
+msgid "Rate Clean Retina"
+msgstr "Evaluar Clean Retina"
+
+#: library/admin/theme-options.php:154
+msgid "Settings saved."
+msgstr "Configuraci&oacute;n guardada."
+
+#: library/admin/theme-options.php:160
+msgid "Design Options"
+msgstr "Opciones de Dise&ntilde;o"
+
+#: library/admin/theme-options.php:161
+msgid "Advance Options"
+msgstr "Opciones avanzadas"
+
+#: library/admin/theme-options.php:162
+msgid "Featured Post/Page Slider"
+msgstr "Entrada destacado/Slider de P&aacute;gina"
+
+#: library/admin/theme-options.php:163
+msgid "Social Links"
+msgstr "Links Sociales"
+
+#: library/admin/theme-options.php:164
+msgid "Webmaster Tools"
+msgstr "Herramientas Webmaster"
+
+#: library/admin/theme-options.php:170
+msgid "Custom Header"
+msgstr "Cabecera personalizada"
+
+#: library/admin/theme-options.php:176
+msgid "Need to replace default header?"
+msgstr "&iquest;Necesita reemplazar la cabecera predeterminada?"
+
+#: library/admin/theme-options.php:179 library/admin/theme-options.php:368
+#, php-format
+msgid "<a class=\"button\" href=\"%s\">Click here</a>"
+msgstr "<a class=\"button\" href=\"%s\">Clic aqu&iacute;</a>"
+
+#: library/admin/theme-options.php:183
+msgid "Hide Searchform from Header"
+msgstr "Ocultar campo de b&uacute;squeda de la cabecera"
+
+#: library/admin/theme-options.php:185
+msgid "Check to hide"
+msgstr "Marcar para ocultar"
+
+#: library/admin/theme-options.php:189 library/admin/theme-options.php:220
+#: library/admin/theme-options.php:251 library/admin/theme-options.php:295
+#: library/admin/theme-options.php:354 library/admin/theme-options.php:401
+#: library/admin/theme-options.php:453 library/admin/theme-options.php:499
+#: library/admin/theme-options.php:526 library/admin/theme-options.php:539
+#: library/admin/theme-options.php:557 library/admin/theme-options.php:590
+#: library/admin/theme-options.php:656 library/admin/theme-options.php:682
+#: library/admin/theme-options.php:720 library/admin/theme-options.php:751
+#: library/admin/theme-options.php:781
+msgid "Save All Changes"
+msgstr "Guardar todos los cambios"
+
+#: library/admin/theme-options.php:194
+msgid "Fav Icon Options"
+msgstr "Opciones del Favicon"
+
+#: library/admin/theme-options.php:199
+msgid "Disable Favicon"
+msgstr "Desactivar Favicon"
+
+#: library/admin/theme-options.php:201 library/admin/theme-options.php:232
+#: library/admin/theme-options.php:420 library/admin/theme-options.php:606
+msgid "Check to disable"
+msgstr "Marcar para desactivar"
+
+#: library/admin/theme-options.php:204
+msgid "Fav Icon URL"
+msgstr "URL del Favicon"
+
+#: library/admin/theme-options.php:207
+msgid "Change Fav Icon"
+msgstr "Cambiar Favicon"
+
+#: library/admin/theme-options.php:211 library/admin/theme-options.php:242
+msgid "Preview"
+msgstr "Vista previa"
+
+#: library/admin/theme-options.php:214
+msgid "favicon"
+msgstr "favicon"
+
+#: library/admin/theme-options.php:225
+msgid "Web Clip Icon Options"
+msgstr "Opciones de Web Clip Icon"
+
+#: library/admin/theme-options.php:230
+msgid "Disable Web Clip Icon"
+msgstr "Desactivar Web Clip Icon"
+
+#: library/admin/theme-options.php:235
+msgid "Web Clip Icon URL"
+msgstr "URL de Web Clip Icon"
+
+#: library/admin/theme-options.php:238
+msgid "Change Web Clip Icon"
+msgstr "Cambiar Web Clip Icon"
+
+#: library/admin/theme-options.php:245
+msgid "webpage icon"
+msgstr "icono de p&aacute;gina web"
+
+# Duda sobre la manera de usar layout, como sinónimo de Diseño o de Distribución.
+#: library/admin/theme-options.php:256
+msgid "Default Layout Options"
+msgstr "Opciones predeterminadas de dise&ntilde;o"
+
+#: library/admin/theme-options.php:261
+msgid "Default Layout"
+msgstr "Dise&ntilde;o predeterminado"
+
+#: library/admin/theme-options.php:265 library/admin/theme-options.php:312
+msgid "No Sidebar"
+msgstr "Sin Sidebar"
+
+#: library/admin/theme-options.php:269 library/admin/theme-options.php:316
+msgid "No Sidebar, Full Width"
+msgstr "Sin Sidebar, Anchura total"
+
+#: library/admin/theme-options.php:277 library/admin/theme-options.php:324
+msgid "Left Sidebar"
+msgstr "Sidebar izquierdo"
+
+#: library/admin/theme-options.php:281 library/admin/theme-options.php:328
+msgid "Right Sidebar"
+msgstr "Sidebar derecho"
+
+#: library/admin/theme-options.php:287
+msgid "Reset Layout"
+msgstr "Restablecer dise&ntilde;o"
+
+#: library/admin/theme-options.php:290
+msgid "Check to reset"
+msgstr "Marcar para restablecer"
+
+#: library/admin/theme-options.php:300
+msgid "Home Page Layout Options"
+msgstr "Opciones de dise&ntilde;o de la p&aacute;gina de inicio"
+
+#: library/admin/theme-options.php:305
+msgid "Home Page Layout"
+msgstr "Dise&ntilde;o de la p&aacute;gina de inicio"
+
+#: library/admin/theme-options.php:306
+msgid ""
+"To select one of these layouts, Latest Posts should be checked in Reading "
+"sub-menu of Settings menu. <strong>Go to Settings->Reading->Check on 'Your "
+"Latest Posts'</strong>"
+msgstr ""
+"Para seleccionar uno de estos dise&ntilde;os, las &uacute;ltimas entradas "
+"deben ser marcadas en el sub-men&uacute; Lectura del men&uacute; Ajustes. "
+"<strong> Vaya a Ajustes-> Lectura->Marcar 'Tus &uacute;ltimas entradas'</"
+"strong>"
+
+#: library/admin/theme-options.php:307
+msgid ""
+"If you chose the corporate layout then you will have to add corporate layout "
+"content from Home Corporate Layout option under Advanced Options Tab."
+msgstr ""
+"Si elige el diseño corporativo entonces tendr&aacute; que agregar el "
+"contenido de diseño corporativo desde la opci&oacute;n Dise&ntilde;o "
+"Corporativo de Inicio en la pesta&ntilde;a Opciones avanzadas."
+
+#: library/admin/theme-options.php:332
+msgid "Corporate Layout"
+msgstr "Dise&ntilde;o corporativo"
+
+#: library/admin/theme-options.php:337
+msgid "Blog Display Type on Home Page"
+msgstr "Mostrar Tipo Blog en el Inicio"
+
+#: library/admin/theme-options.php:341
+msgid "Excerpt Display Type 1"
+msgstr "Mostrar extracto Tipo 1"
+
+#: library/admin/theme-options.php:345
+msgid "Excerpt Display Type 2"
+msgstr "Mostrar extracto Tipo 2"
+
+#: library/admin/theme-options.php:349
+msgid "Full Content Display"
+msgstr "Mostrar contenido completo"
+
+#: library/admin/theme-options.php:359
+msgid "Custom Background"
+msgstr "Fondo personalizado"
+
+#: library/admin/theme-options.php:365
+msgid "Need to replace default background?"
+msgstr "&iquest;Necesita reemplazar el fondo predeterminado?"
+
+#: library/admin/theme-options.php:371
+msgid ""
+"Note: The custom background change will be reflected in content part not the "
+"header and footer part. If you want to reflect change in the footer and "
+"header part as well, please add your custom css from below to hide the "
+"header and footer pattern. You will then see the changes in header and "
+"footer as well."
+msgstr ""
+"Nota: El cambio de fondo personalizada se reflejará en la parte del "
+"contenido no en la parte de la cabecera ni del pie de p&aacute;gina. Si "
+"desea reflejar el cambio en la parte del pie de p&aacute;gina y la cabecera, "
+"por favor agregue su CSS personalizado abajo para ocultar el patr&oacute;n "
+"de la cabecera y del pie de p&aacute;gina."
+
+#: library/admin/theme-options.php:380
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: library/admin/theme-options.php:385
+msgid "Enter your custom CSS styles."
+msgstr "Introduzca los estilos CSS personalizados."
+
+#: library/admin/theme-options.php:386
+msgid "This CSS will overwrite the CSS of style.css file."
+msgstr "Este CSS sobrescribir&aacute; el CSS del archivo style.css."
+
+#: library/admin/theme-options.php:394
+msgid "CSS Tutorial from W3Schools."
+msgstr "Tutorial CSS de W3Schools."
+
+#: library/admin/theme-options.php:396
+msgid "http://www.w3schools.com/css/default.asp"
+msgstr "http://www.w3schools.com/css/default.asp"
+
+#: library/admin/theme-options.php:396
+msgid "CSS Tutorial"
+msgstr "Tutorial CSS"
+
+#: library/admin/theme-options.php:396
+msgid "Click Here to Read"
+msgstr "Haga clic aquí para leer"
+
+#: library/admin/theme-options.php:411
+msgid "Home Slogan Options"
+msgstr "Opciones del lema de inicio"
+
+#: library/admin/theme-options.php:417
+msgid "Disable Slogan Part"
+msgstr "Desactivar parte del lema"
+
+#: library/admin/theme-options.php:423
+msgid "Slogan Position"
+msgstr "Posici&oacute;n del lema"
+
+#: library/admin/theme-options.php:427
+msgid "Above Slider"
+msgstr "Por encima del Slider"
+
+#: library/admin/theme-options.php:431
+msgid "Below Slider"
+msgstr "Por abajo del Slider"
+
+#: library/admin/theme-options.php:436
+msgid "Home Page Slogan1"
+msgstr "Lema1 de Inicio"
+
+#: library/admin/theme-options.php:437 library/admin/theme-options.php:445
+msgid "The appropriate length of the slogan is around 10 words."
+msgstr "La longitud apropiada del lema es de alrededor de 10 palabras."
+
+#: library/admin/theme-options.php:444
+msgid "Home Page Slogan2"
+msgstr "Lema2 de Inicio"
+
+#: library/admin/theme-options.php:458
+msgid "Home's Corporate Type Layout Options"
+msgstr "Opciones del tipo de dise&ntilde;o corporativo del Inicio"
+
+#: library/admin/theme-options.php:463
+msgid "Corporate Content Title"
+msgstr "T&iacute;tulo de Contenido Corporativo"
+
+#: library/admin/theme-options.php:469
+msgid "Featured Box #"
+msgstr "Caja destacada #"
+
+#: library/admin/theme-options.php:472 library/admin/theme-options.php:475
+msgid "Upload Icon Image"
+msgstr "Subir imagen de icono"
+
+#: library/admin/theme-options.php:479
+msgid "Redirect Link"
+msgstr "Redirigir Enlace"
+
+#: library/admin/theme-options.php:485
+msgid "Title"
+msgstr "T&iacute;tulo"
+
+#: library/admin/theme-options.php:491
+msgid "Description"
+msgstr "Descripci&oacute;n"
+
+#: library/admin/theme-options.php:504
+msgid "Corporate Page Template Options"
+msgstr "Opciones de la plantilla de la p&aacute;gina corporativa"
+
+#: library/admin/theme-options.php:510
+msgid "About:"
+msgstr "Sobre:"
+
+# No muy seguro de la traducción.
+#: library/admin/theme-options.php:513
+msgid ""
+"Settings used on pages that use the \"Corporate Template\" page template. "
+"This template must be assigned to a page before its settings take effect."
+msgstr ""
+"Los ajustes utilizados en la plantilla de p&aacute;gina utilizan la "
+"\"Plantilla Corporativa\". Esta plantilla se debe asignar a una p&aacute;"
+"gina antes de que su configuraci&oacute;n surta efecto."
+
+#: library/admin/theme-options.php:518
+msgid "Page # "
+msgstr "P&aacute;gina #"
+
+#: library/admin/theme-options.php:531
+msgid "Excerpt Options"
+msgstr "Opciones del extracto"
+
+#: library/admin/theme-options.php:535
+msgid "Excerpt Length"
+msgstr "Longitud del extracto"
+
+#: library/admin/theme-options.php:536
+msgid "word(s). Default value for excerpt length is 30 words."
+msgstr ""
+"palabra(s). El valor de la longitud predeterminada para el extracto es de 30 "
+"palabras."
+
+#: library/admin/theme-options.php:544
+msgid "Feed Redirect"
+msgstr "Redirecci&oacute;n de Feed"
+
+#: library/admin/theme-options.php:550
+msgid "Feed Redirect URL"
+msgstr "URL de redirecci&oacute;n de Feed"
+
+#: library/admin/theme-options.php:562
+msgid "Homepage / Frontpage Category Setting"
+msgstr "Configuraci&oacute;n de la categor&iacute;a  de Inicio / Portada"
+
+#: library/admin/theme-options.php:568
+msgid "Front page posts categories:"
+msgstr "Categor&iacute;as para las entradas de la portada:"
+
+#: library/admin/theme-options.php:570
+msgid ""
+"Only posts that belong to the categories selected here will be displayed on "
+"the front page."
+msgstr ""
+"S&oacute;lo las entradas que pertenecen a las categor&iacute;as "
+"seleccionadas aqu&iacute; se mostrar&aacute; en la p&aacute;gina principal."
+
+#: library/admin/theme-options.php:575
+msgid "--Disabled--"
+msgstr "--Desactivado--"
+
+#: library/admin/theme-options.php:585
+msgid "You may select multiple categories by holding down the CTRL key."
+msgstr ""
+"Puede seleccionar varias categor&iacute;as manteniendo presionada la tecla "
+"CTRL."
+
+#: library/admin/theme-options.php:600
+msgid "Slider Options"
+msgstr "Opciones del Slider"
+
+#: library/admin/theme-options.php:604
+msgid "Disable Slider"
+msgstr "Desactivar Slider"
+
+#: library/admin/theme-options.php:609
+msgid "Number of Slides"
+msgstr "N&uacute;mero de Slides"
+
+#: library/admin/theme-options.php:614
+msgid "Transition Effect:"
+msgstr "Efecto de transici&oacute;n:"
+
+#: library/admin/theme-options.php:634 library/admin/theme-options.php:711
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: library/admin/theme-options.php:642
+msgid "Transition Delay"
+msgstr "Retraso de la transici&oacute;n"
+
+#: library/admin/theme-options.php:645 library/admin/theme-options.php:652
+msgid "second(s)"
+msgstr "segundo(s)"
+
+#: library/admin/theme-options.php:649
+msgid "Transition Length"
+msgstr "Duraci&oacute;n de la transici&oacute;n"
+
+#: library/admin/theme-options.php:661
+msgid "Featured Post/Page Slider Options"
+msgstr "Opciones de entradas destacadas/Slider de p&aacute;gina"
+
+#: library/admin/theme-options.php:665
+msgid "Exclude Slider post from Homepage posts?"
+msgstr "&iquest;Excluir Slider de las entradas del Inicio?"
+
+#: library/admin/theme-options.php:667
+msgid "Check to exclude"
+msgstr "Marcar para excluir"
+
+#: library/admin/theme-options.php:672
+msgid "Featured Slider Post/Page #"
+msgstr "Slider de Entrada/P&aacute;gina destacadas #"
+
+#: library/admin/theme-options.php:674
+msgid "Click Here To Edit"
+msgstr "Haga clic aqu&iacute; para editar"
+
+#: library/admin/theme-options.php:680
+msgid ""
+"<strong>Following are the steps on how to use the featured slider.</"
+"strong><br />* Create Post, Add featured image to the Post.<br />* Add all "
+"the Post ID that you want to use in the featured slider. <br /> &nbsp;(You "
+"can now see the Posts' respective ID in the All Posts' table in last column.)"
+"<br />* Featured Slider will show featured images, Title and excerpt of the "
+"respected added post's IDs."
+msgstr ""
+"Los siguientes son los pasos a seguir para utilizar el slider destacado.</"
+"strong><br />* Crear una entrada, A&ntilde;adir una imagen destacada a la "
+"entrada.<br />* A&ntilde;adir  todos los ID de las entradas que desea "
+"utilizar en el slider destacado. <br /> &nbsp;(Ahora puede ver los "
+"respectivos ID de las entradas en la tabla de Todas las entradas, en la "
+"ultima columna.)<br />* El Slider destacado ahora mostrara las im&aacute;"
+"genes destacadas, T&iacute;tulo y extracto de las ID de las entradas "
+"a&ntilde;adidadas respectivamente."
+
+#: library/admin/theme-options.php:681
+msgid ""
+"<strong>Note:</strong> You can now add Pages ID too. (You can now see the "
+"Pages' respective ID in the All Pages' table in last column.) ."
+msgstr ""
+"<strong>Nota:</strong> Ahora puede agregar tambi&eacute;n ID de p&aacute;"
+"ginas. (Ahora puede ver los IDs respectivos de las p&aacute;ginas en la "
+"&uacute;ltima columna de la tabla Todas las p&aacute;ginas.) ."
+
+#: library/admin/theme-options.php:728
+msgid "Site Verification"
+msgstr "Verificaci&oacute;n del sitio"
+
+#: library/admin/theme-options.php:733
+msgid "Google Site Verification ID"
+msgstr "ID de Google Site Verification"
+
+#: library/admin/theme-options.php:734
+msgid "Enter your Google ID number only"
+msgstr "Introduzca s&oacute;lo el n&uacute;mero de su Google ID"
+
+#: library/admin/theme-options.php:739
+msgid "Yahoo Site Verification ID"
+msgstr "ID de Yahoo Site Verification"
+
+#: library/admin/theme-options.php:740
+msgid "Enter your Yahoo ID number only"
+msgstr "Introduzca s&oacute;lo el n&uacute;mero de su Yahoo ID"
+
+#: library/admin/theme-options.php:745
+msgid "Bing Site Verification ID"
+msgstr "ID de Bing Site Verification"
+
+#: library/admin/theme-options.php:746
+msgid "Enter your Bing ID number only"
+msgstr "Introduzca s&oacute;lo el n&uacute;mero de su Bing ID"
+
+#: library/admin/theme-options.php:756
+msgid "Analytics"
+msgstr "Analytics"
+
+#: library/admin/theme-options.php:761
+msgid "Code to display on Header"
+msgstr "C&oacute;digo para mostrar en la cabecera."
+
+#: library/admin/theme-options.php:767
+msgid "Note: Enter your custom header script."
+msgstr "Nota: Introduzca su script personalizado para la cabecera."
+
+#: library/admin/theme-options.php:770
+msgid "Code to display on Footer"
+msgstr "C&oacute;digo para mostrar en el pie de p&aacute;gina"
+
+#: library/admin/theme-options.php:777
+msgid "Note: Enter your custom footer script."
+msgstr "Nota: Introduzca su script personalizado para el pie de p&aacute;gina."
+
+#: library/functions/functions.php:330
+msgid "By"
+msgstr "Por"
+
+#: library/functions/functions.php:336
+msgid "No Comments"
+msgstr "No hay comentarios"
+
+#: library/functions/functions.php:336
+msgid "1 Comment"
+msgstr "1 comentario"
+
+#: library/functions/functions.php:336
+msgid "% Comments"
+msgstr "% comentarios"
+
+#: library/functions/functions.php:336
+msgid "Comments Off"
+msgstr "Comentarios cerrados"
+
+#: library/functions/functions.php:354 library/functions/functions.php:360
+msgid "Permalink to "
+msgstr "Permalink para"
+
+#: library/functions/functions.php:379
+msgid "Read more"
+msgstr "Leer m&aacute;s"
+
+#: library/functions/functions.php:386
+msgid ", "
+msgstr ", "
+
+#: library/functions/functions.php:392
+msgid "Tagged on: "
+msgstr "Etiquetado en: "
+
+#: library/functions/functions.php:400
+msgid "Pages:"
+msgstr "P&aacute;ginas:"
+
+#: library/functions/functions.php:435
+msgid "No Posts Found."
+msgstr "No se encontraron entradas."
+
+#: library/functions/functions.php:436
+msgid "Try a new search."
+msgstr "Intente una nueva b&uacute;squeda."
+
+#: library/functions/functions.php:458
+msgid "&laquo; Previous"
+msgstr "&laquo; Anterior"
+
+#: library/functions/functions.php:459
+msgid "Next &raquo;"
+msgstr "Siguiente &raquo;"
+
+#: library/functions/functions.php:476
+#, fuzzy
+msgid "&larr; Previous"
+msgstr "&laquo; Anterior"
+
+#: library/functions/functions.php:477
+#, fuzzy
+msgid "Next &rarr;"
+msgstr "Siguiente &raquo;"
+
+#: library/functions/functions.php:484
+msgid "&larr;"
+msgstr "&larr;"
+
+#: library/functions/functions.php:485
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: library/functions/functions.php:693
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: library/functions/functions.php:693
+msgid "(Edit)"
+msgstr "(Editar)"
+
+#: library/functions/functions.php:708
+msgid "Post author"
+msgstr "Autor de la entrada"
+
+#: library/functions/functions.php:714
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s en %2$s"
+
+#: library/functions/functions.php:720
+msgid "Your comment is awaiting moderation."
+msgstr "Su comentario est&aacute; pendiente de moderaci&oacute;n."
+
+#: library/functions/functions.php:725
+msgid "Edit"
+msgstr "Editar"
+
+#: library/functions/functions.php:729
+msgid "Reply <span>&darr;</span>"
+msgstr "Responder <span>&darr;</span>"
+
+#: library/functions/functions.php:748
+msgid "Error 404-Page NOT Found"
+msgstr "Error 404 - P&aacute;gina no encontrada"
+
+#: library/functions/functions.php:751
+msgid "It seems we can't find what you're looking for."
+msgstr "Parece que no puede encontrar lo que est&aacute; buscando."
+
+#: library/functions/functions.php:752
+msgid "This might be because:"
+msgstr "Esto podr&iacute;a deberse a que:"
+
+#: library/functions/functions.php:753
+msgid ""
+"You have typed the web address incorrectly, or the page you were looking for "
+"may have been moved, updated or deleted."
+msgstr ""
+"Ha escrito incorrectamente la direcci&oacute;n o la p&aacute;gina que estaba "
+"buscando, o la p&aacute;gina puede haber sido movida, actualizada o borrada."
+
+#: library/functions/functions.php:754
+msgid "Please try the following instead:"
+msgstr "Por favor pruebe lo siguiente en su lugar:"
+
+#: library/functions/functions.php:755
+msgid ""
+"Check for a mis-typed URL error, then press the refresh button on your "
+"browser."
+msgstr ""
+"Compruebe si hay alguna URL mal escrita, a continuaci&oacute;n, pulse el "
+"bot&oacute;n Actualizar de su navegador."
+
+#: library/functions/functions.php:796 library/functions/functions.php:810
+#, fuzzy
+msgid "Navigation"
+msgstr "Navegaci&oacute;n de comentarios"
+
+#: library/shortcodes/cleanretina-shortcodes.php:52
+msgid "WordPress"
+msgstr "WordPress"
+
+#: library/structure/archive-gallery-extensions.php:36
+msgid "No Posts for this Custom Post Type"
+msgstr "No hay entradas para este tipo de entrada personalizada"
+
+#: library/structure/footer-extensions.php:62
+msgid "Copyright &copy;"
+msgstr "Copyright &copy;"
+
+#: library/structure/footer-extensions.php:62
+msgid "Theme by:"
+msgstr "Tema por:"
+
+#: library/structure/footer-extensions.php:62
+msgid "Powered by:"
+msgstr "Powered by:"
+
+#: library/structure/footer-extensions.php:92
+msgid "Back to Top"
+msgstr "Volver al principio"
+
+#: library/structure/header-extensions.php:80
+#, php-format
+msgid "Page %s"
+msgstr "P&aacute;gina %s"
+
+#: library/structure/header-extensions.php:311
+#, php-format
+msgid "%1$s on %2$s"
+msgstr "%1$s en %2$s"
+
+#: library/structure/header-extensions.php:402
+msgid "Continue Reading"
+msgstr "... Continuar leyendo"
+
+#: library/structure/searchform-extensions.php:20
+#: library/structure/searchform-extensions.php:21
+msgid "Search"
+msgstr "Buscar"
+
+#: library/widgets/cleanretina_widgets.php:17
+msgid "Side Sidebar"
+msgstr "Side Sidebar"
+
+#: library/widgets/cleanretina_widgets.php:19
+msgid "Shows widgets at side."
+msgstr "Muestra los widgets en el costado."
+
+#: library/widgets/cleanretina_widgets.php:28
+msgid "Footer Sidebar"
+msgstr "Sidebar del pie de p&aacute;gina"
+
+#: library/widgets/cleanretina_widgets.php:30
+msgid "Shows widgets at footer."
+msgstr "Muestra los widgets en el pie de p&aacute;gina."
+
+#: library/widgets/cleanretina_widgets.php:53
+msgid "Displays Custom Tag Cloud"
+msgstr "Mostrar la Nube de etiquetas personalizadas"
+
+#: library/widgets/cleanretina_widgets.php:55
+msgid "Theme Horse: Custom Tag Cloud"
+msgstr "Theme Horse: Nube de etiquetas personalizadas"
+
+#: library/widgets/cleanretina_widgets.php:107
+msgid "Title:"
+msgstr "T&iacute;tulo:"
+
+#~ msgid "Support theme development"
+#~ msgstr "Apoye el desarrollo del Tema"
+
+#~ msgid "OR Review our theme"
+#~ msgstr "&Oacute; eval&uacute;e nuestro tema"
+
+#~ msgid "at WordPress.org"
+#~ msgstr "en WordPress.org"

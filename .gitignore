@@ -1,0 +1,31 @@
+*.log
+htdocs/*.log
+htdocs/.htaccess
+htdocs/wp-config.php
+htdocs/wp-content/advanced-cache.php
+htdocs/wp-content/backup-db/
+htdocs/wp-content/backups/
+htdocs/wp-content/blogs.dir/
+htdocs/wp-content/cache/
+htdocs/wp-content/upgrade/
+htdocs/wp-content/uploads/
+htdocs/wp-content/wp-cache-config.php
+
+# Don't add the Local settings file to the repository #
+htdocs/wp-config-local.php
+ 
+# Don't add the SASS cache #
+htdocs/wp-content/themes/hvngrymag/.sass-cache/*
+ 
+# No need to add the upgrade folder to the repo #
+htdocs/wp-content/upgrade/*
+ 
+# sitemaps not needed locally #
+htdocs/sitemap.xml
+htdocs/sitemap.xml.gz
+ 
+# no need for these #
+readme.html
+license.txt
+.log
+.DS_Store
